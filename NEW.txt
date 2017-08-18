@@ -1,0 +1,1377 @@
+1,AAF,29.73,-85.03,Apalachicola,Apalachicola Regional Airport,United States
+2,AAP,29.43,-95.35,Houston,Andrau Airport,United States
+3,ABE,40.65,-75.44,Allentown,Lehigh Valley Intl,United States
+4,ABI,32.41,-99.68,Abilene,Abilene Rgnl,United States
+5,ABL,67.11,-157.86,Ambler,Ambler Airport,United States
+6,ABQ,35.04,-106.61,Albuquerque,Albuquerque International Sunport,United States
+7,ABR,45.45,-98.42,Aberdeen,Aberdeen Regional Airport,United States
+8,ABY,31.54,-84.19,Albany,Southwest Georgia Regional Airport,United States
+9,ACJ,32.07,-84.11,Americus,Jimmy Carter Regional,United States
+10,ACK,41.25,-70.06,Nantucket,Nantucket Mem,United States
+11,ACT,31.61,-97.23,Waco,Waco Rgnl,United States
+12,ACV,40.98,-124.11,Arcata CA,Arcata,United States
+13,ACY,39.46,-74.58,Atlantic City,Atlantic City Intl,United States
+14,ADK,51.88,-176.65,Adak Island,Adak Airport,United States
+15,ADM,34.30,-97.01,Ardmore,Ardmore Muni,United States
+16,ADQ,57.75,-152.49,Kodiak,Kodiak,United States
+17,ADS,32.97,-96.84,Addison,Addison,United States
+18,ADW,38.81,-76.87,Camp Springs,Andrews Afb,United States
+19,AET,66.55,-152.62,Allakaket,Allakaket Airport,United States
+20,AEX,31.33,-92.55,Alexandria,Alexandria Intl,United States
+21,AFE,56.96,-133.91,Kake,Kake Airport,United States
+22,AFW,32.99,-97.32,Fort Worth,Fort Worth Alliance Airport,United States
+23,AGC,40.35,-79.93,Pittsburgh,Allegheny County Airport,United States
+24,AGN,57.50,-134.59,Angoon,Angoon Seaplane Base,United States
+25,AGS,33.37,-81.96,Bush Field,Augusta Rgnl At Bush Fld,United States
+26,AHN,33.95,-83.33,Athens,Athens Ben Epps Airport,United States
+27,AIA,42.05,-102.80,Alliance,Alliance Municipal Airport,United States
+28,AIK,33.65,-81.69,Aiken,Municipal Airport,United States
+29,AIN,70.64,-159.99,Wainwright,Wainwright Airport,United States
+30,AIZ,38.10,-92.55,Kaiser Lake Ozark,Lee C Fine Memorial Airport,United States
+31,AKB,52.22,-174.21,Atka,Atka Airport,United States
+32,AKC,41.04,-81.47,Akron,Akron Fulton Intl,United States
+33,AKI,60.90,-161.23,Akiak,Akiak Airport,United States
+34,AKK,56.94,-154.18,Akhiok,Akhiok Airport,United States
+35,AKN,58.68,-156.65,King Salmon,King Salmon,United States
+36,AKP,68.13,-151.74,Anaktuvuk Pass,Anaktuvuk Pass Airport,United States
+37,ALB,42.75,-73.80,Albany,Albany Intl,United States
+38,ALI,27.74,-98.03,Alice,Alice Intl,United States
+39,ALM,32.84,-105.99,Alamogordo,Alamogordo White Sands Regional Airport,United States
+40,ALO,42.56,-92.40,Waterloo,Waterloo Regional Airport,United States
+41,ALS,37.44,-105.87,Alamosa,San Luis Valley Regional Airport,United States
+42,ALW,46.09,-118.29,Walla Walla,Walla Walla Regional Airport,United States
+43,ALX,38.81,-77.06,Alexandria,Alexandria,United States
+44,ALZ,56.90,-154.25,Lazy Bay,Alitak Seaplane Base,United States
+45,AMA,35.22,-101.71,Amarillo,Rick Husband Amarillo Intl,United States
+46,ANB,33.59,-85.86,Anniston,Anniston Metro,United States
+47,ANC,61.17,-150.00,Anchorage,Ted Stevens Anchorage Intl,United States
+48,AND,34.49,-82.71,Andersen,Anderson Rgnl,United States
+49,ANI,61.58,-159.54,Aniak,Aniak Airport,United States
+50,ANN,55.04,-131.57,Annette Island,Annette Island,United States
+51,ANP,38.94,-76.57,Annapolis,Lee Airport,United States
+52,ANQ,41.64,-85.08,Angola,Tri-State Steuben County Airport,United States
+53,ANV,62.65,-160.19,Anvik,Anvik Airport,United States
+54,AOH,40.71,-84.03,Lima,Lima Allen County Airport,United States
+55,AOO,40.30,-78.32,Altoona,Altoona Blair Co,United States
+56,AOS,57.47,-153.82,Amook Bay,Amook Bay Seaplane Base,United States
+57,APA,39.57,-104.85,Denver,Centennial,United States
+58,APC,38.21,-122.28,Napa,Napa County Airport,United States
+59,APF,26.15,-81.78,Naples,Naples Muni,United States
+60,APG,39.47,-76.17,Aberdeen,Phillips Aaf,United States
+61,APN,45.08,-83.56,Alpena,Alpena County Regional Airport,United States
+62,AQC,55.55,-133.10,Klawock,Klawock Seaplane Base,United States
+63,ARA,30.04,-91.88,Louisiana,Acadiana Rgnl,United States
+64,ARB,42.13,-83.44,Ann Arbor,Ann Arbor Municipal Airport,United States
+65,ARC,68.11,-145.58,Arctic Village,Arctic Village Airport,United States
+66,ART,43.99,-76.02,Watertown,Watertown Intl,United States
+67,ARV,45.93,-89.73,Minocqua - Woodruff,Lakeland,United States
+68,ASE,39.22,-106.87,Aspen,Aspen Pitkin County Sardy Field,United States
+69,ASH,42.78,-71.51,Nashua,Boire Field Airport,United States
+70,AST,46.16,-123.88,Astoria,Astoria Regional Airport,United States
+71,ATK,70.47,-157.44,Atqasuk,Atqasuk Edward Burnell Sr Memorial Airport,United States
+72,ATL,33.64,-84.43,Atlanta,Hartsfield Jackson Atlanta Intl,United States
+73,ATT,30.32,-97.77,Austin TX,Camp Mabry Austin City,United States
+74,ATW,44.26,-88.51,Appleton,Appleton,United States
+75,ATY,44.91,-97.15,Watertown,Watertown Regional Airport,United States
+76,AUG,44.32,-69.80,Augusta,Augusta State,United States
+77,AUK,62.68,-164.66,Alakanuk,Alakanuk Airport,United States
+78,AUO,32.37,-85.26,Auburn,Auburn University Regional,United States
+79,AUS,30.19,-97.67,Austin,Austin Bergstrom Intl,United States
+80,AUW,44.93,-89.63,Wausau,Wausau Downtown Airport,United States
+81,AVL,35.44,-82.54,Asheville,Asheville Regional Airport,United States
+82,AVO,27.59,-81.53,Avon Park,Executive,United States
+83,AVP,41.34,-75.72,Scranton,Wilkes Barre Scranton Intl,United States
+84,AVW,32.41,-111.22,Tucson,Marana Regional,United States
+85,AVX,33.41,-118.42,Catalina Island,Avalon,United States
+86,AZA,33.31,-111.66,Mesa,Phoenix-Mesa Gateway,United States
+87,AZO,42.23,-85.55,Kalamazoo,Kalamazoo,United States
+88,BAB,39.14,-121.44,Marysville,Beale Afb,United States
+89,BAD,32.50,-93.66,Shreveport,Barksdale Afb,United States
+90,BAF,42.16,-72.72,Westfield,Barnes Municipal,United States
+91,BBX,40.14,-75.27,Philadelphia,Wings Field,United States
+92,BCE,37.71,-112.15,Bryce Canyon,Bryce Canyon,United States
+93,BCT,26.38,-80.11,Boca Raton,Boca Raton,United States
+94,BDE,48.73,-94.61,Baudette,Baudette Intl,United States
+95,BDL,41.94,-72.68,Windsor Locks,Bradley Intl,United States
+96,BDR,41.16,-73.13,Stratford,Igor I Sikorsky Mem,United States
+97,BEC,37.69,-97.21,Wichita,Beech Factory Airport,United States
+98,BED,42.47,-71.29,Bedford,Laurence G Hanscom Fld,United States
+99,BEH,42.13,-86.43,Benton Harbor,Southwest Michigan Regional Airport,United States
+100,BET,60.78,-161.84,Bethel,Bethel,United States
+101,BFD,41.80,-78.64,Bradford,Bradford Regional Airport,United States
+102,BFF,41.87,-103.60,Scottsbluff,Western Nebraska Regional Airport,United States
+103,BFI,47.53,-122.30,Seattle,Boeing Fld King Co Intl,United States
+104,BFL,35.43,-119.06,Bakersfield,Meadows Fld,United States
+105,BFM,30.63,-88.07,Mobile,Mobile Downtown,United States
+106,BFP,40.77,-80.39,Beaver Falls,Beaver Falls,United States
+107,BFT,32.48,-80.72,Beaufort,Beaufort,United States
+108,BFT,32.41,-80.64,Beauford,BFT County Airport,United States
+109,BGE,30.97,-84.64,Bainbridge,Decatur County Industrial Air Park,United States
+110,BGM,42.21,-75.98,Binghamton,Greater Binghamton Edwin A Link Fld,United States
+111,BGR,44.81,-68.83,Bangor,Bangor Intl,United States
+112,BHB,44.45,-68.36,Bar Harbor,Hancock County - Bar Harbor,United States
+113,BHM,33.56,-86.75,Birmingham,Birmingham Intl,United States
+114,BID,41.17,-71.58,Block Island,Block Island State Airport,United States
+115,BIF,31.85,-106.38,El Paso,Biggs Aaf,United States
+116,BIG,63.99,-145.72,Delta Junction,Allen Aaf,United States
+117,BIL,45.81,-108.54,Billings,Billings Logan International Airport,United States
+118,BIS,46.78,-100.76,Bismarck,Bismarck Municipal Airport,United States
+119,BIV,42.74,-86.11,Holland,Tulip City Airport,United States
+120,BIX,30.41,-88.92,Biloxi,Keesler Afb,United States
+121,BJC,39.91,-105.12,Broomfield-CO,Rocky Mountain Metropolitan Airport,United States
+122,BJI,47.51,-94.93,Bemidji,Bemidji Regional Airport,United States
+123,BKC,65.98,-161.15,Buckland,Buckland Airport,United States
+124,BKD,32.72,-98.89,Breckenridge,Stephens Co,United States
+125,BKF,39.70,-104.75,Buckley,Buckley Afb,United States
+126,BKG,36.53,-93.20,Branson,Branson LLC,United States
+127,BKH,22.02,-159.79,Barking Sands,Barking Sands Pmrf,United States
+128,BKL,41.52,-81.68,Cleveland,Burke Lakefront Airport,United States
+129,BKW,37.79,-81.12,Beckley,Raleigh County Memorial Airport,United States
+130,BKX,44.30,-96.82,Brookings,Brookings Regional Airport,United States
+131,BLD,35.57,-114.51,Boulder City,Boulder City Municipal Airport,United States
+132,BLF,37.30,-81.21,Bluefield,Mercer County Airport,United States
+133,BLH,33.62,-114.72,Blythe,Blythe Airport,United States
+134,BLI,48.79,-122.54,Bellingham,Bellingham Intl,United States
+135,BLV,38.55,-89.84,Belleville,Scott Afb Midamerica,United States
+136,BMC,41.55,-112.06,Brigham City,Brigham City,United States
+137,BMG,39.15,-86.62,Bloomington,Monroe County Airport,United States
+138,BMI,40.48,-88.92,Bloomington,Central Illinois Rgnl,United States
+139,BMT,30.07,-94.22,Beaumont,Beaumont Municipal,United States
+140,BMX,59.36,-155.26,Big Mountain,Big Mountain Afs,United States
+141,BNA,36.12,-86.68,Nashville,Nashville Intl,United States
+142,BOI,43.56,-116.22,Boise,Boise Air Terminal,United States
+143,BOS,42.36,-71.01,Boston,General Edward Lawrence Logan Intl,United States
+144,BOW,27.94,-81.78,Bartow,Bartow Municipal Airport,United States
+145,BPT,29.95,-94.02,Beaumont,Southeast Texas Rgnl,United States
+146,BQK,31.26,-81.47,Brunswick,Brunswick Golden Isles Airport,United States
+147,BRD,46.40,-94.14,Brainerd,Brainerd Lakes Rgnl,United States
+148,BRL,40.78,-91.13,Burlington,Southeast Iowa Regional Airport,United States
+149,BRO,25.91,-97.43,Brownsville,Brownsville South Padre Island Intl,United States
+150,BRW,71.29,-156.77,Barrow,Wiley Post Will Rogers Mem,United States
+151,BSF,19.76,-155.55,Bradshaw Field,Bradshaw Aaf,United States
+152,BTI,70.13,-143.58,Barter Island,Barter Island Lrrs,United States
+153,BTM,45.95,-112.50,Butte,Bert Mooney Airport,United States
+154,BTR,30.53,-91.15,Baton Rouge,Baton Rouge Metro Ryan Fld,United States
+155,BTT,66.91,-151.53,Bettles,Bettles,United States
+156,BTV,44.47,-73.15,Burlington,Burlington Intl,United States
+157,BUF,42.94,-78.73,Buffalo,Buffalo Niagara Intl,United States
+158,BUR,34.20,-118.36,Burbank,Bob Hope,United States
+159,BUU,42.69,-88.30,Burlington,Municipal Airport,United States
+160,BUY,36.05,-79.47,Burlington,Burlington-Alamance Regional Airport,United States
+161,BVY,42.58,-70.92,Beverly,Beverly Municipal Airport,United States
+162,BWD,31.79,-98.96,Brownwood,KBWD,United States
+163,BWG,36.96,-86.42,Bowling Green,Bowling Green-Warren County Regional Airport,United States
+164,BWI,39.18,-76.67,Baltimore,Baltimore Washington Intl,United States
+165,BXK,33.42,-112.69,Buckeye,Buckeye Municipal Airport,United States
+166,BXS,33.26,-116.32,Borrego Springs,Borrego Valley Airport,United States
+167,BYH,35.96,-89.94,Blytheville,Arkansas Intl,United States
+168,BYS,35.28,-116.63,Fort Irwin,Bicycle Lake Aaf,United States
+169,BYW,48.56,-122.80,Blakely Island,Blakely Island Airport,United States
+170,BZN,45.78,-111.16,Bozeman,Gallatin Field,United States
+171,C02,42.61,-88.39,Lake Geneva,Grand Geneva Resort Airport,United States
+172,C16,40.14,-88.20,Urbana,Frasca Field,United States
+173,C47,43.56,-89.48,Portage,Portage Municipal Airport,United States
+174,C65,41.37,-86.30,Plymouth,Plymouth Municipal Airport,United States
+175,C89,42.70,-87.96,Sturtevant,Sylvania Airport,United States
+176,C91,41.99,-86.13,Dowagiac,Dowagiac Municipal Airport,United States
+177,CAE,33.94,-81.12,Columbia,Columbia Metropolitan,United States
+178,CAK,40.92,-81.44,Akron,Akron Canton Regional Airport,United States
+179,CAR,46.87,-68.02,Caribou,Caribou Muni,United States
+180,CBE,39.62,-78.76,Cumberland,Greater Cumberland Rgnl.,United States
+181,CBM,33.64,-88.44,Colombus,Columbus Afb,United States
+182,CCO,33.31,-84.77,Newnan,Coweta County Airport,United States
+183,CCR,37.99,-122.06,Concord,Buchanan Field Airport,United States
+184,CDB,55.21,-162.73,Cold Bay,Cold Bay,United States
+185,CDC,37.70,-113.10,Cedar City,Cedar City Rgnl,United States
+186,CDI,39.98,-81.58,Cambridge,Cambridge Municipal Airport,United States
+187,CDK,29.13,-83.05,Cedar Key,CedarKey,United States
+188,CDN,34.28,-80.56,Camden,Woodward Field,United States
+189,CDR,42.84,-103.10,Chadron,Chadron Municipal Airport,United States
+190,CDS,34.43,-100.29,Childress,Childress Muni,United States
+191,CDV,60.49,-145.48,Cordova,Merle K Mudhole Smith,United States
+192,CDW,40.88,-74.28,Caldwell,Caldwell Essex County Airport,United States
+193,CEC,41.78,-124.24,Crescent City,Del Norte County Airport,United States
+194,CEF,42.19,-72.53,Chicopee Falls,Westover Arb Metropolitan,United States
+195,CEM,65.57,-144.78,Central,Central Airport,United States
+196,CEU,34.67,-82.89,Clemson,Clemson,United States
+197,CEW,30.78,-86.52,Crestview,Bob Sikes,United States
+198,CEZ,37.30,-108.63,Cortez,Cortez Muni,United States
+199,CFD,30.72,-96.33,Bryan,Coulter Fld,United States
+200,CGA,55.48,-133.15,Craig,Craig Seaplane Base,United States
+201,CGC,28.87,-82.57,Crystal River,Crystal River,United States
+202,CGF,41.57,-81.49,Richmond Heights,Cuyahoga County,United States
+203,CGI,37.23,-89.57,Cape Girardeau,Cape Girardeau Regional Airport,United States
+204,CGX,41.86,-87.61,Chicago,Meigs Field,United States
+205,CGZ,32.95,-111.77,Casa Grande,Casa Grande Municipal Airport,United States
+206,CHA,35.04,-85.20,Chattanooga,Lovell Fld,United States
+207,CHI,41.88,-87.63,Chicago,All Airports,United States
+208,CHO,38.14,-78.45,Charlottesville VA,Charlottesville-Albemarle,United States
+209,CHS,32.90,-80.04,Charleston,Charleston Afb Intl,United States
+210,CHU,61.58,-159.22,Chuathbaluk,Chuathbaluk Airport,United States
+211,CIC,39.80,-121.86,Chico,Chico Muni,United States
+212,CID,41.88,-91.71,Cedar Rapids,Cedar Rapids,United States
+213,CIK,66.65,-143.74,Chalkyitsik,Chalkyitsik Airport,United States
+214,CIL,64.90,-163.70,Council,Council Airport,United States
+215,CIU,46.25,-84.47,Sault Ste Marie,Chippewa County International Airport,United States
+216,CKB,39.30,-80.23,Clarksburg,Harrison Marion Regional Airport,United States
+217,CKD,61.87,-158.14,Crooked Creek,Crooked Creek Airport,United States
+218,CKF,31.99,-83.77,Cordele,Crisp County Cordele Airport,United States
+219,CKV,36.62,-87.42,Clarksville,Clarksville-Montgomery County Regional Airport,United States
+220,CLC,29.56,-95.14,Clear Lake City,Clear Lake Metroport,United States
+221,CLD,33.07,-117.16,Carlsbad,McClellan-Palomar Airport,United States
+222,CLE,41.41,-81.85,Cleveland,Cleveland Hopkins Intl,United States
+223,CLL,30.59,-96.36,College Station,Easterwood Fld,United States
+224,CLM,48.12,-123.50,Port Angeles,William R Fairchild International Airport,United States
+225,CLS,46.41,-122.59,Chehalis,Chehalis-Centralia,United States
+226,CLT,35.21,-80.94,Charlotte,Charlotte Douglas Intl,United States
+227,CLW,27.98,-82.76,Clearwater,Clearwater Air Park,United States
+228,CMH,40.00,-82.89,Columbus,Port Columbus Intl,United States
+229,CMI,40.04,-88.28,Champaign,Champaign,United States
+230,CMX,47.17,-88.49,Hancock,Houghton County Memorial Airport,United States
+231,CNM,32.34,-104.26,Carlsbad,Cavern City Air Terminal,United States
+232,CNW,31.64,-97.07,Waco,Tstc Waco,United States
+233,CNY,38.76,-109.75,Moab,Canyonlands Field,United States
+234,COD,44.52,-109.02,Cody,Yellowstone Rgnl,United States
+235,COE,47.77,-116.82,Coeur d'Alene,Pappy Boyington,United States
+236,COF,28.23,-80.61,Coco Beach,Patrick Afb,United States
+237,COI,28.34,-80.69,Cocoa,Merritt Island Airport,United States
+238,CON,43.20,-71.50,Concord NH,Concord Municipal,United States
+239,COS,38.81,-104.70,Colorado Springs,City Of Colorado Springs Muni,United States
+240,COT,28.46,-99.22,Cotulla,Cotulla Lasalle Co,United States
+241,COU,38.82,-92.22,Columbia,Columbia Rgnl,United States
+242,CPR,42.91,-106.46,Casper,Natrona Co Intl,United States
+243,CPS,38.57,-90.16,East St. Louis,St. Louis Downtown Airport,United States
+244,CRE,33.81,-78.72,North Myrtle Beach,Grand Strand Airport,United States
+245,CRP,27.77,-97.50,Corpus Christi,Corpus Christi Intl,United States
+246,CRW,38.37,-81.59,Charleston,Yeager,United States
+247,CSG,32.52,-84.94,Columbus,Columbus Metropolitan Airport,United States
+248,CTB,48.61,-112.38,Cutbank,Cut Bank Muni,United States
+249,CTH,39.98,-75.87,Coatesville,Chester County G O Carlson Airport,United States
+250,CTJ,33.63,-85.15,Carrollton,West Georgia Regional Airport - O V Gray Field,United States
+251,CTY,29.64,-83.10,Cross City,Cross City,United States
+252,CVG,39.05,-84.67,Cincinnati,Cincinnati Northern Kentucky Intl,United States
+253,CVN,34.43,-103.08,Clovis,Clovis Muni,United States
+254,CVO,44.51,-123.29,Corvallis,Corvallis Muni,United States
+255,CVS,34.38,-103.32,Clovis,Cannon Afb,United States
+256,CVX,45.30,-85.28,Charelvoix,Charlevoix Municipal Airport,United States
+257,CWA,44.77,-89.65,Wassau,Central Wisconsin,United States
+258,CWI,41.83,-90.33,Clinton,Clinton Municipal,United States
+259,CWT,34.26,-118.60,Chatsworth,Chatsworth Station,United States
+260,CXF,67.25,-150.18,Coldfoot,Coldfoot Airport,United States
+261,CXL,32.67,-115.51,Calexico,Calexico Intl,United States
+262,CXO,30.35,-95.41,Conroe,Lone Star Executive,United States
+263,CXY,40.22,-76.85,Harrisburg,Capital City Airport,United States
+264,CYF,60.15,-164.29,Chefornak,Chefornak Airport,United States
+265,CYM,57.52,-134.95,Sitka,Chatham Seaplane Base,United States
+266,CYS,41.16,-104.81,Cheyenne,Cheyenne Rgnl Jerry Olson Fld,United States
+267,CYT,60.08,-142.49,Yakataga,Yakataga Airport,United States
+268,CZF,61.78,-166.04,Cape Romanzof,Cape Romanzof Lrrs,United States
+269,CZG,42.05,-76.06,Endicott,Tri-Cities,United States
+270,CZN,62.07,-142.05,Chisana,Chisana Airport,United States
+271,DAB,29.18,-81.06,Daytona Beach,Daytona Beach Intl,United States
+272,DAL,32.85,-96.85,Dallas,Dallas Love Fld,United States
+273,DAW,43.28,-70.93,Rochester,Skyhaven Airport,United States
+274,DAY,39.90,-84.22,Dayton,James M Cox Dayton Intl,United States
+275,DBN,32.34,-82.59,Dublin,W H Barron Field,United States
+276,DBQ,42.40,-90.71,Dubuque IA,Dubuque Rgnl,United States
+277,DCA,38.85,-77.04,Washington,Ronald Reagan Washington Natl,United States
+278,DDC,37.76,-99.97,Dodge City,Dodge City Regional Airport,United States
+279,DEC,39.83,-88.87,Decatur,Decatur,United States
+280,DEN,39.86,-104.67,Denver,Denver Intl,United States
+281,DET,42.41,-83.01,Detroit,Coleman A Young Muni,United States
+282,DFW,32.90,-97.04,Dallas-Fort Worth,Dallas Fort Worth Intl,United States
+283,DGL,31.34,-109.51,Douglas,Douglas Municipal Airport,United States
+284,DHB,48.62,-123.01,Deer Harbor,Deer Harbor Seaplane,United States
+285,DHN,31.32,-85.45,Dothan,Dothan Rgnl,United States
+286,DHT,36.02,-102.55,Dalhart,Dalhart Muni,United States
+287,DIK,46.80,-102.80,Dickinson,Dickinson Theodore Roosevelt Regional Airport,United States
+288,DKB,41.93,-88.71,De Kalb,De Kalb Taylor Municipal Airport,United States
+289,DKK,42.49,-79.27,Dunkirk,Chautauqua County-Dunkirk Airport,United States
+290,DKX,35.96,-83.87,Knoxville,Knoxville Downtown Island Airport,United States
+291,DLF,29.36,-100.78,Del Rio,Laughlin Afb,United States
+292,DLG,59.04,-158.51,Dillingham,Dillingham,United States
+293,DLH,46.84,-92.19,Duluth,Duluth Intl,United States
+294,DLL,43.52,-89.77,Baraboo,Baraboo Wisconsin Dells Airport,United States
+295,DMA,32.17,-110.88,Tucson,Davis Monthan Afb,United States
+296,DNL,33.47,-82.04,Augusta,Daniel Field Airport,United States
+297,DNN,34.72,-84.87,Dalton,Dalton Municipal Airport,United States
+298,DNV,40.20,-87.60,Danville,Vermilion Regional,United States
+299,DOV,39.13,-75.47,Dover,Dover Afb,United States
+300,DPA,41.91,-88.25,West Chicago,Dupage,United States
+301,DQH,31.48,-82.86,Douglas,Douglas Municipal Airport,United States
+302,DRG,66.07,-162.77,Deering,Deering Airport,United States
+303,DRI,30.83,-93.34,Deridder,Beauregard Rgnl,United States
+304,DRM,46.01,-83.74,Drummond Island,Drummond Island Airport,United States
+305,DRO,37.15,-107.75,Durango,Durango La Plata Co,United States
+306,DRT,29.37,-100.93,Del Rio,Del Rio Intl,United States
+307,DSM,41.53,-93.66,Des Moines,Des Moines Intl,United States
+308,DTA,39.38,-112.51,Delta,Delta Municipal Airport,United States
+309,DTS,30.40,-86.47,Destin,Destin,United States
+310,DTW,42.21,-83.35,Detroit,Detroit Metro Wayne Co,United States
+311,DUC,34.47,-97.96,Duncan,Halliburton Field Airport,United States
+312,DUG,31.47,-109.60,Douglas,Bisbee Douglas Intl,United States
+313,DUJ,41.18,-78.90,Du Bois,DuBois Regional Airport,United States
+314,DUT,53.90,-166.54,Unalaska,Unalaska,United States
+315,DVL,48.11,-98.91,Devils Lake,Devils Lake Regional Airport,United States
+316,DVT,33.41,112.46,Phoenix ,Deer Valley Municipal Airport,United States
+317,DWA,38.58,-121.86,Davis-Woodland-Winters,Yolo County Airport,United States
+318,DWH,30.06,-95.55,Houston,David Wayne Hooks Field,United States
+319,DWS,28.40,-81.57,Orlando,Orlando,United States
+320,DXR,41.37,-73.48,Danbury,Danbury Municipal Airport,United States
+321,DYS,32.42,-99.85,Abilene,Dyess Afb,United States
+322,E25,33.97,-112.80,Wickenburg,Wickenburg Municipal Airport,United States
+323,E51,34.60,-113.17,Bagdad,Bagdad Airport,United States
+324,E55,38.80,-123.53,Gualala,Ocean Ridge Airport,United States
+325,E63,32.96,-112.67,Gila Bend,Gila Bend Municipal Airport,United States
+326,E91,36.11,-109.58,Chinle,Chinle Municipal Airport,United States
+327,EAA,64.78,-141.15,Eagle,Eagle Airport,United States
+328,EAR,40.73,-99.01,Kearney,Kearney Municipal Airport,United States
+329,EAT,47.40,-120.21,Wenatchee,Pangborn Field,United States
+330,EAU,44.87,-91.48,Eau Claire,Chippewa Valley Regional Airport,United States
+331,ECA,44.31,-83.42,East Tawas,Iosco County,United States
+332,ECG,36.26,-76.17,Elizabeth City,Elizabeth City Cgas Rgnl,United States
+333,ECP,30.34,-85.80,Panama City,Panama City-NW Florida Bea.,United States
+334,EDF,61.25,-149.81,Anchorage,Elmendorf Afb,United States
+335,EDW,34.91,-117.88,Edwards Afb,Edwards Afb,United States
+336,EEK,60.21,-162.04,Eek,Eek Airport,United States
+337,EEN,72.27,42.90,Keene,Dillant Hopkins Airport,United States
+338,EET,33.18,-86.78,Alabaster,Shelby County Airport,United States
+339,EFD,29.61,-95.16,Houston,Ellington Fld,United States
+340,EGA,39.64,-106.92,Eagle,Eagle County Airport,United States
+341,EGE,39.64,-106.92,Vail,Eagle Co Rgnl,United States
+342,EGT,37.39,-97.42,Wellington,Wellington Municipal,United States
+343,EGV,45.93,-89.27,Eagle River,Eagle River,United States
+344,EGX,58.19,-157.38,Egegik,Egegik Airport,United States
+345,EHM,58.65,-162.06,Cape Newenham,Cape Newenham Lrrs,United States
+346,EIL,64.67,-147.10,Fairbanks,Eielson Afb,United States
+347,EKI,41.72,-86.00,Elkhart,Elkhart Municipal,United States
+348,EKN,38.89,-79.86,Elkins,Elkins Randolph Co Jennings Randolph,United States
+349,EKO,40.82,-115.79,Elko,Elko Regional Airport,United States
+350,EKY,33.19,-86.56,Bessemer,Bessemer,United States
+351,ELD,33.22,-92.81,El Dorado,South Arkansas Rgnl At Goodwin Fld,United States
+352,ELI,64.62,-162.27,Elim,Elim Airport,United States
+353,ELM,42.16,-76.89,Elmira,Elmira Corning Rgnl,United States
+354,ELP,31.81,-106.38,El Paso,El Paso Intl,United States
+355,ELV,58.20,-136.35,Elfin Cove,Elfin Cove Seaplane Base,United States
+356,ELY,39.30,-114.84,Ely,Ely Airport,United States
+357,EMK,62.79,-164.49,Emmonak,Emmonak Airport,United States
+358,EMP,38.33,-96.19,Emporia,Emporia Municipal Airport,United States
+359,ENA,60.57,-151.25,Kenai,Kenai Muni,United States
+360,END,36.34,-97.92,Enid,Vance Afb,United States
+361,ENV,40.72,-114.03,Wendover,Wendover,United States
+362,ENW,42.60,-87.93,Kenosha,Kenosha Regional Airport,United States
+363,EOK,40.46,-91.43,Keokuk,Keokuk Municipal Airport,United States
+364,EPM,44.91,-67.01,Eastport,Eastport Municipal Airport,United States
+365,EQY,35.02,-80.62,Charlotte,Monroe Reqional Airport,United States
+366,ERI,42.08,-80.18,Erie,Erie Intl Tom Ridge Fld,United States
+367,ERV,29.98,-99.09,Kerrville,Kerrville Municipal Airport,United States
+368,ERY,46.31,-85.46,Newberry,Luce County Airport,United States
+369,ESC,45.72,-87.09,Escanaba,Delta County Airport,United States
+370,ESD,48.71,-122.91,Eastsound,Orcas Island Airport,United States
+371,ESF,31.39,-92.30,Alexandria,Esler Rgnl,United States
+372,ESN,38.80,-76.07,Easton,Easton-Newnam Field Airport,United States
+373,EUF,31.57,-85.08,Eufala,Weedon Field,United States
+374,EUG,44.12,-123.21,Eugene,Mahlon Sweet Fld,United States
+375,EVV,38.04,-87.53,Evansville,Evansville Regional,United States
+376,EVW,41.16,-111.02,Evanston,Evanston-Uinta CO Burns Fld,United States
+377,EWB,41.68,-70.96,New Bedford,New Bedford Regional Airport,United States
+378,EWK,38.06,-97.28,Newton,Newton City-County Airport,United States
+379,EWN,35.07,-77.04,New Bern,Craven Co Rgnl,United States
+380,EWR,40.69,-74.17,Newark,Newark Liberty Intl,United States
+381,EXI,58.42,-135.45,Excursion Inlet,Excursion Inlet Seaplane Base,United States
+382,EYW,24.56,-81.76,Key West,Key West Intl,United States
+383,F57,28.06,-81.76,Winterhaven,Seaplane Base,United States
+384,FAF,37.13,-76.61,Fort Eustis,Felker Aaf,United States
+385,FAI,64.82,-147.86,Fairbanks,Fairbanks Intl,United States
+386,FAR,46.92,-96.82,Fargo,Hector International Airport,United States
+387,FAT,36.78,-119.72,Fresno,Fresno Yosemite Intl,United States
+388,FAY,34.99,-78.88,Fayetteville,Fayetteville Regional Grannis Field,United States
+389,FBG,38.30,-77.46,Fredericksburg,Fredericksburg Amtrak Station,United States
+390,FBK,64.84,-147.61,Fort Wainwright,Ladd Aaf,United States
+391,FBR,41.24,-110.24,Fort Bridger,Fort Bridger,United States
+392,FBS,48.54,-123.01,Friday Harbor,Friday Harbor Seaplane Base,United States
+393,FCA,48.31,-114.26,Kalispell,Glacier Park Intl,United States
+394,FCM,44.49,-93.27,Eden Prairie,Flying Cloud Airport,United States
+395,FCS,38.68,-104.76,Fort Carson,Butts Aaf,United States
+396,FDW,34.32,-81.11,Winnsboro,Fairfield County Airport,United States
+397,FDY,41.01,-83.67,Findley,Findlay Airport,United States
+398,FFA,36.02,-75.67,Kill Devil Hills,First Flight Airport,United States
+399,FFC,33.36,-84.57,Atlanta,Atlanta Regional Airport - Falcon Field,United States
+400,FFO,39.83,-84.05,Dayton,Wright Patterson Afb,United States
+401,FFT,38.18,-84.91,Frankfort,Capital City Airport,United States
+402,FFZ,33.46,-111.73,Mesa,Mesa Falcon Field,United States
+403,FHU,31.59,-110.34,Fort Huachuca,Sierra Vista Muni Libby Aaf,United States
+404,FIT,42.55,-71.76,Fitchburg,Fitchburg Municipal Airport,United States
+405,FKL,41.38,-79.86,Franklin,Franklin,United States
+406,FLD,43.77,-88.49,Fond du Lac,Fond Du Lac County Airport,United States
+407,FLG,35.14,-111.67,Flagstaff,Flagstaff Pulliam Airport,United States
+408,FLL,26.07,-80.15,Fort Lauderdale,Fort Lauderdale Hollywood Intl,United States
+409,FLO,34.19,-79.72,Florence,Florence Rgnl,United States
+410,FLV,39.37,-94.91,Fort Leavenworth,Sherman Aaf,United States
+411,FME,39.09,-76.76,Fort Meade,Tipton,United States
+412,FMH,41.66,-70.52,Falmouth,Otis Angb,United States
+413,FMN,36.74,-108.23,Farmington,Four Corners Rgnl,United States
+414,FMY,26.59,-81.86,Fort Myers,Page Fld,United States
+415,FNL,40.45,-105.01,Fort Collins,Fort Collins Loveland Muni,United States
+416,FNR,58.25,-134.90,Funter Bay,Funter Bay Seaplane Base,United States
+417,FNT,42.97,-83.74,Flint,Bishop International,United States
+418,FOD,42.55,-94.19,Fort Dodge,Fort Dodge Rgnl,United States
+419,FOE,38.95,-95.66,Topeka,Forbes Fld,United States
+420,FOK,40.84,-72.63,West Hampton Beach,Francis S Gabreski,United States
+421,FRD,48.52,-123.02,Friday Harbor,Friday Harbor Airport,United States
+422,FRI,39.06,-96.76,Fort Riley,Marshall Aaf,United States
+423,FRN,61.27,-149.65,Fort Richardson,Bryant Ahp,United States
+424,FRP,27.50,-80.37,Fort Pierce,St Lucie County International Airport,United States
+425,FSD,43.58,-96.74,Sioux Falls,Sioux Falls,United States
+426,FSI,34.65,-98.40,Fort Sill,Henry Post Aaf,United States
+427,FSM,35.34,-94.37,Fort Smith,Fort Smith Rgnl,United States
+428,FST,30.92,-102.92,Fort Stockton,Fort Stockton Pecos Co,United States
+429,FTK,37.91,-85.97,Fort Knox,Godman Aaf,United States
+430,FTW,32.82,-97.36,Fort Worth,Fort Worth Meacham Intl,United States
+431,FTY,33.78,-84.52,Atlanta,Fulton County Airport Brown Field,United States
+432,FUL,33.52,-117.58,Fullerton,Fullerton Municipal Airport,United States
+433,FWA,40.98,-85.20,Fort Wayne,Fort Wayne,United States
+434,FXE,26.20,-80.17,Fort Lauderdale,Fort Lauderdale Executive,United States
+435,FYU,66.57,-145.25,Fort Yukon,Fort Yukon,United States
+436,FYV,36.01,-94.17,Fayetteville,Drake Fld,United States
+437,FZG,31.68,-83.27,Fitzgerald,Fitzgerald Municipal Airport,United States
+438,FZI,41.19,-83.39,Fostoria,Fostoria Metropolitan Airport,United States
+439,GAD,33.97,-86.09,Gadsden,Northeast Alabama Regional Airport,United States
+440,GAI,39.10,-77.10,Gaithersburg,Montgomery County Airpark,United States
+441,GAL,64.74,-156.94,Galena,Edward G Pitka Sr,United States
+442,GAM,63.77,-171.73,Gambell,Gambell Airport,United States
+443,GBN,38.34,-98.86,Great Bend,Great Bend Municipal,United States
+444,GCC,44.35,-105.54,Gillette,Gillette-Campbell County Airport,United States
+445,GCK,37.93,-100.72,Garden City,Garden City Rgnl,United States
+446,GCN,35.95,-112.15,Grand Canyon,Grand Canyon National Park Airport,United States
+447,GCW,35.59,-113.49,Grand Canyon West,Grand Canyon West Airport,United States
+448,GDV,47.14,-104.81,Glendive,Dawson Community Airport,United States
+449,GDW,43.97,-84.48,Gladwin,Gladwin Zettel Memorial Airport,United States
+450,GED,38.69,-75.36,Georgetown,Sussex Co,United States
+451,GEG,47.62,-117.53,Spokane,Spokane Intl,United States
+452,GEU,33.53,-112.30,Glendale,Glendale Municipal Airport,United States
+453,GFK,47.95,-97.18,Grand Forks,Grand Forks Intl,United States
+454,GFL,43.34,-73.61,Queensbury,Floyd Bennett Memorial Airport,United States
+455,GGE,33.31,-79.32,Georgetown,Georgetown County Airport,United States
+456,GGG,32.38,-94.71,Longview,East Texas Rgnl,United States
+457,GGW,48.21,-106.62,Glasgow,Wokal Field Glasgow International Airport,United States
+458,GHG,42.10,-70.67,Marshfield,Marshfield Municipal Airport,United States
+459,GIF,28.06,-81.75,Winter Haven,Gilbert Airport,United States
+460,GJT,39.12,-108.53,Grand Junction,Grand Junction Regional,United States
+461,GKN,62.15,-145.46,Gulkana,Gulkana,United States
+462,GKY,32.66,-97.09,Arlington,Arlington Municipal,United States
+463,GLD,39.37,-101.70,Goodland,Renner Fld,United States
+464,GLH,33.48,-90.99,Greenville,Mid Delta Regional Airport,United States
+465,GLS,29.27,-94.86,Galveston,Scholes Intl At Galveston,United States
+466,GLV,64.55,-163.01,Golovin,Golovin Airport,United States
+467,GNT,35.17,-107.90,Grants,Grants Milan Muni,United States
+468,GNU,59.12,-161.58,Goodnews Bay,Goodnews Airport,United States
+469,GNV,29.69,-82.27,Gainesville,Gainesville Rgnl,United States
+470,GON,41.33,-72.05,Groton CT,Groton New London,United States
+471,GPT,30.41,-89.07,Gulfport,Gulfport-Biloxi,United States
+472,GPZ,47.21,-93.51,Grand Rapids MN,Grand Rapids Itasca County,United States
+473,GQQ,40.75,-82.72,Galion,Galion Municipal Airport,United States
+474,GRB,44.49,-88.13,Green Bay,Austin Straubel Intl,United States
+475,GRF,47.08,-122.58,Fort Lewis,Gray Aaf,United States
+476,GRI,40.97,-98.31,Grand Island,Central Nebraska Regional Airport,United States
+477,GRK,31.07,-97.83,Killeen,Robert Gray Aaf,United States
+478,GRM,47.84,-90.38,Grand Marais,Grand Marais Cook County Airport,United States
+479,GRR,42.88,-85.52,Grand Rapids,Gerald R Ford Intl,United States
+480,GSB,35.34,-77.96,Goldsboro,Seymour Johnson Afb,United States
+481,GSO,36.10,-79.94,Greensboro,Piedmont Triad,United States
+482,GSP,34.90,-82.22,Greenville,Greenville-Spartanburg International,United States
+483,GST,58.43,-135.71,Gustavus,Gustavus Airport,United States
+484,GTB,44.06,-75.72,Fort Drum,Wheeler Sack Aaf,United States
+485,GTF,47.48,-111.37,Great Falls,Great Falls Intl,United States
+486,GTR,33.45,-88.59,Columbus Mississippi,Golden Triangle Regional Airport,United States
+487,GTU,30.68,-97.68,Georgetown,Georgetown Municipal Airport,United States
+488,GUC,38.53,-106.93,Gunnison,Gunnison - Crested Butte,United States
+489,GUP,35.51,-108.79,Gallup,Gallup Muni,United States
+490,GUS,40.65,-86.15,Peru,Grissom Arb,United States
+491,GVL,34.27,-83.83,Gainesville,Lee Gilmer Memorial Airport,United States
+492,GVQ,43.03,-78.17,Batavia,Genesee County Airport,United States
+493,GVT,33.07,-96.07,Greenvile,Majors,United States
+494,GWO,33.49,-90.08,Greenwood,Greenwood Leflore,United States
+495,GYY,41.62,-87.41,Gary,Gary Chicago International Airport,United States
+496,HBG,31.26,-89.25,Hattiesburg,Hattiesburg Bobby L. Chain Municipal Airport,United States
+497,HBR,34.99,-99.05,Hobart,Hobart Muni,United States
+498,HCC,42.29,-73.71,Hudson NY,Columbia County,United States
+499,HCR,62.19,-159.78,Holy Cross,Holy Cross Airport,United States
+500,HDH,21.58,-158.20,Dillingham,Dillingham,United States
+501,HDI,35.22,-84.83,Cleveland,Hardwick Field Airport,United States
+502,HDN,40.48,-107.22,Hayden,Yampa Valley,United States
+503,HDO,29.36,-99.18,Hondo,Hondo Municipal Airport,United States
+504,HFD,41.74,-72.65,Hartford,Hartford Brainard,United States
+505,HGR,39.71,-77.73,Hagerstown,Hagerstown Regional Richard A Henson Field,United States
+506,HHH,32.22,-80.75,Hilton Head,Hilton Head,United States
+507,HHI,21.48,-158.04,Wahiawa,Wheeler Aaf,United States
+508,HHR,33.92,-118.34,Hawthorne,Jack Northrop Fld Hawthorne Muni,United States
+509,HIB,47.39,-92.84,Hibbing,Chisholm Hibbing,United States
+510,HIF,41.12,-111.97,Ogden,Hill Afb,United States
+511,HII,34.57,-114.36,Lake Havasu City,Lake Havasu City Airport,United States
+512,HIO,45.54,-122.95,Hillsboro,Portland Hillsboro,United States
+513,HKB,63.87,-148.97,Healy,Healy River Airport,United States
+514,HKY,35.74,-81.39,Hickory,Hickory Rgnl,United States
+515,HLG,40.18,-80.65,Wheeling,Wheeling Ohio County Airport,United States
+516,HLN,46.61,-111.98,Helena,Helena Rgnl,United States
+517,HLR,31.14,-97.71,Fort Hood,Hood Aaf,United States
+518,HMN,32.85,-106.11,Alamogordo,Holloman Afb,United States
+519,HNH,58.10,-135.41,Hoonah,Hoonah Airport,United States
+520,HNL,21.32,-157.92,Honolulu,Honolulu Intl,United States
+521,HNM,20.80,-156.01,Hana,Hana,United States
+522,HNS,59.24,-135.52,Haines,Haines Airport,United States
+523,HOB,32.69,-103.22,Hobbs,Lea Co Rgnl,United States
+524,HOM,59.65,-151.48,Homer,Homer,United States
+525,HON,44.39,-98.23,Huron,Huron Rgnl,United States
+526,HOP,36.67,-87.50,Hopkinsville,Campbell Aaf,United States
+527,HOT,34.48,-93.10,Hot Springs,Memorial Field,United States
+528,HOU,29.65,-95.28,Houston,William P Hobby,United States
+529,HPB,61.52,-166.15,Hooper Bay,Hooper Bay Airport,United States
+530,HPN,41.07,-73.71,White Plains,Westchester Co,United States
+531,HQM,46.97,-123.94,Hoquiam,Bowerman Field,United States
+532,HQU,33.53,-82.52,Thomson,McDuffie County Airport,United States
+533,HRL,26.23,-97.65,Harlingen,Valley Intl,United States
+534,HRO,36.26,-93.15,Harrison,Boone Co,United States
+535,HRT,30.43,-86.69,Mary Esther,Hurlburt Fld,United States
+536,HSH,35.97,-115.13,Henderson,Henderson Executive Airport,United States
+537,HSL,65.70,-156.35,Huslia,Huslia Airport,United States
+538,HST,25.49,-80.38,Homestead,Homestead Arb,United States
+539,HSV,34.64,-86.78,Huntsville,Huntsville International Airport-Carl T Jones Field,United States
+540,HTL,44.36,-84.67,Houghton Lake,Roscommon Co,United States
+541,HTS,38.37,-82.56,Huntington,Tri State Milton J Ferguson Field,United States
+542,HUA,34.68,-86.68,Redstone,Redstone Aaf,United States
+543,HUF,39.45,-87.31,Terre Haute,Terre Haute Intl Hulman Fld,United States
+544,HUL,46.12,-67.79,Houlton,Houlton Intl,United States
+545,HUS,66.04,-154.26,Hughes,Hughes Airport,United States
+546,HUT,38.07,-97.86,Hutchinson,Hutchinson Municipal Airport,United States
+547,HVN,41.26,-72.89,New Haven,Tweed-New Haven Airport,United States
+548,HVR,48.54,-109.76,Havre,Havre City Co,United States
+549,HWD,37.66,-122.12,Hayward,Hayward Executive Airport,United States
+550,HWO,26.00,-80.24,Hollywood,North Perry,United States
+551,HXD,32.22,-80.70,Hilton Head Island,Hilton Head Airport,United States
+552,HYA,41.67,-70.28,Barnstable,Barnstable Muni Boardman Polando Fld,United States
+553,HYG,55.21,-132.83,Hydaburg,Hydaburg Seaplane Base,United States
+554,HYL,55.48,-132.65,Hollis,Hollis Seaplane Base,United States
+555,HYS,38.84,-99.27,Hays,Hays Regional Airport,United States
+556,HZL,40.99,-76.00,Hazleton,Hazleton Municipal,United States
+557,IAB,37.62,-97.27,Wichita,Mc Connell Afb,United States
+558,IAD,38.94,-77.46,Washington,Washington Dulles Intl,United States
+559,IAG,43.11,-78.95,Niagara Falls,Niagara Falls Intl,United States
+560,IAH,29.98,-95.34,Houston,George Bush Intercontinental,United States
+561,IAN,66.98,-160.44,Kiana,Bob Baker Memorial Airport,United States
+562,ICT,37.65,-97.43,Wichita,Wichita Mid Continent,United States
+563,ICY,59.97,-141.66,Icy Bay,Icy Bay Airport,United States
+564,IDA,43.51,-112.07,Idaho Falls,Idaho Falls Rgnl,United States
+565,IDL,40.64,-73.78,New York,Idlewild Intl,United States
+566,IFP,35.16,-114.56,Bullhead,Laughlin-Bullhead Intl,United States
+567,IGG,59.32,-155.90,Igiugig,Igiugig Airport,United States
+568,IGM,35.26,-113.94,Kingman,Kingman Airport,United States
+569,IGQ,41.53,-87.53,Lansing,Lansing Municipal,United States
+570,IJD,41.74,-72.18,Willimantic,Windham Airport,United States
+571,IKK,41.07,-87.85,Kankakee,Greater Kankakee,United States
+572,IKO,52.94,-168.85,Nikolski,Nikolski Air Station,United States
+573,IKR,35.04,-106.61,Kirtland A.f.b.,Kirtland Air Force Base,United States
+574,IKV,41.69,-93.57,Ankeny,Ankeny Regl Airport,United States
+575,ILG,39.68,-75.61,Wilmington,New Castle,United States
+576,ILI,59.75,-154.91,Iliamna,Iliamna,United States
+577,ILM,34.27,-77.90,Wilmington,Wilmington Intl,United States
+578,ILN,39.43,-83.79,Wilmington,Wilmington Airborne Airpark,United States
+579,IMM,26.43,-81.40,Immokalee ,Immokalee ,United States
+580,IMT,45.82,-88.11,Iron Mountain,Ford Airport,United States
+581,IND,39.72,-86.29,Indianapolis,Indianapolis Intl,United States
+582,INJ,32.08,-97.10,Hillsboro,Hillsboro Muni,United States
+583,INK,31.78,-103.20,Wink,Winkler Co,United States
+584,INL,48.57,-93.40,International Falls,Falls Intl,United States
+585,INS,36.59,-115.67,Indian Springs,Creech Afb,United States
+586,INT,36.13,-80.22,Winston-salem,Smith Reynolds,United States
+587,INW,35.02,-110.72,Winslow,Winslow-Lindbergh Regional Airport,United States
+588,IOW,41.64,-91.55,Iowa City,Iowa City Municipal Airport,United States
+589,IPL,32.83,-115.58,Imperial,Imperial Co,United States
+590,IPT,41.24,-76.92,Williamsport,Williamsport Rgnl,United States
+591,IRC,65.83,-144.08,Circle,Circle City Airport,United States
+592,IRK,40.09,-92.54,Kirksville,Kirksville Regional Airport,United States
+593,ISM,28.29,-81.44,Kissimmee,Kissimmee Gateway Airport,United States
+594,ISN,48.18,-103.64,Williston,Sloulin Fld Intl,United States
+595,ISO,35.33,-77.61,Kinston,Kinston Regional Jetport,United States
+596,ISP,40.80,-73.10,Islip,Long Island Mac Arthur,United States
+597,ISW,44.36,-89.84,Wisconsin Rapids,Alexander Field South Wood County Airport,United States
+598,ITH,42.49,-76.46,Ithaca,Ithaca Tompkins Rgnl,United States
+599,ITO,19.72,-155.05,Hilo,Hilo Intl,United States
+600,IWD,46.53,-90.13,Ironwood,Gogebic Iron County Airport,United States
+601,IWS,29.82,-95.67,Houston,West Houston,United States
+602,IYK,35.66,-117.83,Inyokern,Inyokern Airport,United States
+603,IZG,43.99,-70.95,Fryeburg,Eastern Slopes Regional,United States
+604,JAC,43.61,-110.74,Jacksn Hole,Jackson Hole Airport,United States
+605,JAN,32.31,-90.08,Jackson,Jackson Evers Intl,United States
+606,JAX,30.49,-81.69,Jacksonville,Jacksonville Intl,United States
+607,JBR,35.83,-90.65,Jonesboro,Jonesboro Muni,United States
+608,JCI,38.83,-94.89,Olathe,New Century AirCenter Airport,United States
+609,JEF,38.59,-92.16,Jefferson City,Jefferson City Memorial Airport,United States
+610,JES,31.55,-81.88,Jesup,Jesup-Wayne County Airport,United States
+611,JFK,40.64,-73.78,New York,John F Kennedy Intl,United States
+612,JGC,35.97,-112.13,Grand Canyon,Grand Canyon Heliport,United States
+613,JHM,20.96,-156.67,Lahania-kapalua,Kapalua,United States
+614,JHW,42.15,-79.26,Jamestown,Chautauqua County-Jamestown,United States
+615,JKA,30.29,-87.67,Gulf Shores,Jack Edwards Airport,United States
+616,JLN,37.15,-94.50,Joplin,Joplin Rgnl,United States
+617,JMS,46.93,-98.68,Jamestown,Jamestown Regional Airport,United States
+618,JNU,58.35,-134.58,Juneau,Juneau Intl,United States
+619,JOT,41.52,-88.18,Joliet,Regional Airport,United States
+620,JRA,40.75,-74.01,New York,West 30th St. Heliport,United States
+621,JRB,40.70,-74.01,New York,Wall Street Heliport,United States
+622,JST,40.32,-78.83,Johnstown,John Murtha Johnstown-Cambria County Airport,United States
+623,JVL,42.62,-89.04,Janesville,Southern Wisconsin Regional Airport,United States
+624,JXN,42.26,-84.46,Jackson,Reynolds Field,United States
+625,JYL,32.65,-81.60,Sylvania,Plantation Airpark,United States
+626,JYO,39.08,-77.56,Leesburg,Leesburg Executive Airport,United States
+627,JZP,34.45,-84.46,Jasper,Pickens County Airport,United States
+628,K03,70.61,-159.86,Fort Wainwright,Wainwright As,United States
+629,K27,42.89,-73.67,Mechanicville,Burrello-Mechanicville Airport,United States
+630,K83,39.54,-95.47,Sabetha,Sabetha Municipal,United States
+631,KAE,56.97,-133.95,Kake,Kake Seaplane Base,United States
+632,KAL,64.32,-158.74,Kaltag,Kaltag Airport,United States
+633,KBC,66.26,-145.82,Brich Creek,Birch Creek Airport,United States
+634,KBW,56.30,-158.40,Chignik,Chignik Bay Seaplane Base,United States
+635,KCC,56.01,-132.83,Coffman Cove,Coffman Cove Seaplane Base,United States
+636,KCL,56.31,-158.53,Chignik Lagoon,Chignik Lagoon Airport,United States
+637,KCQ,56.26,-158.78,Chignik Lake,Chignik Lake Airport,United States
+638,KEH,47.75,-122.26,Kenmore,Kenmore Air Harbor Inc Seaplane Base,United States
+639,KEK,59.36,-157.47,Ekwok,Ekwok Airport,United States
+640,KFP,54.85,-163.41,False Pass,False Pass Airport,United States
+641,KGK,59.73,-157.26,Koliganek,Koliganek Airport,United States
+642,KGX,62.89,-160.07,Grayling,Grayling Airport,United States
+643,KKA,64.94,-161.15,Koyuk,Koyuk Alfred Adams Airport,United States
+644,KKB,58.19,-152.37,Kitoi Bay,Kitoi Bay Seaplane Base,United States
+645,KKH,59.96,-162.88,Kongiganak,Kongiganak Airport,United States
+646,KLG,61.54,-160.34,Kalskag,Kalskag Airport,United States
+647,KLL,59.13,-156.86,Levelock,Levelock Airport,United States
+648,KLN,57.54,-153.98,Larsen Bay,Larsen Bay Airport,United States
+649,KLS,46.12,-122.90,Kelso,Kelso Longview,United States
+650,KLW,55.58,-133.08,Klawock,Klawock Airport,United States
+651,KMO,58.99,-159.05,Manokotak,Manokotak Airport,United States
+652,KMY,57.03,-154.15,Moser Bay,Moser Bay Seaplane Base,United States
+653,KNW,59.45,-157.33,New Stuyahok,New Stuyahok Airport,United States
+654,KOA,19.74,-156.05,Kona,Kona Intl At Keahole,United States
+655,KOT,63.03,-163.53,Kotlik,Kotlik Airport,United States
+656,KOY,57.16,-154.23,Olga Bay,Olga Bay Seaplane Base,United States
+657,KOZ,57.92,-152.50,Ouzinkie,Ouzinkie Airport,United States
+658,KPB,56.35,-133.62,Point Baker,Point Baker Seaplane Base,United States
+659,KPC,65.25,-166.86,Port Clarence,Port Clarence Coast Guard Station,United States
+660,KPN,59.93,-164.03,Kipnuk,Kipnuk Airport,United States
+661,KPR,58.49,-152.58,Port Williams,Port Williams Seaplane Base,United States
+662,KPV,55.91,-159.16,Perryville,Perryville Airport,United States
+663,KPY,57.93,-153.04,Port Bailey,Port Bailey Seaplane Base,United States
+664,KQA,54.13,-165.79,Akutan,Akutan Seaplane Base,United States
+665,KSM,62.06,-163.30,St Mary's,St Marys Airport,United States
+666,KTB,55.69,-132.54,Thorne Bay,Thorne Bay Seaplane Base,United States
+667,KTN,55.36,-131.71,Ketchikan,Ketchikan Intl,United States
+668,KTS,65.33,-166.47,Brevig Mission,Brevig Mission Airport,United States
+669,KUK,60.87,-162.52,Kasigluk,Kasigluk Airport,United States
+670,KVC,55.12,-162.27,King Cove,King Cove Airport,United States
+671,KVL,67.74,-164.56,Kivalina,Kivalina Airport,United States
+672,KWK,59.88,-163.17,Kwigillingok,Kwigillingok Airport,United States
+673,KWN,59.76,-161.85,Quinhagak,Quinhagak Airport,United States
+674,KWP,57.77,-153.55,West Point,West Point Village Seaplane Base,United States
+675,KWT,60.79,-161.44,Kwethluk,Kwethluk Airport,United States
+676,KYK,57.57,-154.45,Karluk,Karuluk Airport,United States
+677,KYU,64.88,-157.73,Koyukuk,Koyukuk Airport,United States
+678,KZB,57.55,-153.75,Zachar Bay,Zachar Bay Seaplane Base,United States
+679,L06,36.27,-116.52,Death Valley National Park,Furnace Creek,United States
+680,L35,34.26,-116.86,Big Bear,Big Bear City,United States
+681,L52,35.10,-120.62,Oceano,Oceano County Airport,United States
+682,LAA,38.07,-102.69,Lamar,Lamar Muni,United States
+683,LAF,40.41,-86.94,Lafayette,Purude University Airport,United States
+684,LAL,27.99,-82.02,Lakeland,Lakeland Linder Regional Airport,United States
+685,LAM,35.88,-106.27,Los Alamos,Los Alamos Airport,United States
+686,LAN,42.78,-84.59,Lansing,Capital City,United States
+687,LAR,41.31,-105.68,Laramie,Laramie Regional Airport,United States
+688,LAS,36.08,-115.15,Las Vegas,Mc Carran Intl,United States
+689,LAW,34.57,-98.42,Lawton,Lawton-Fort Sill Regional Airport,United States
+690,LAX,33.94,-118.41,Los Angeles,Los Angeles Intl,United States
+691,LBB,33.66,-101.82,Lubbock,Lubbock Preston Smith Intl,United States
+692,LBE,40.28,-79.40,Latrobe,Arnold Palmer Regional Airport,United States
+693,LBF,41.13,-100.68,North Platte,North Platte Regional Airport Lee Bird Field,United States
+694,LBL,37.04,-100.96,Liberal,Liberal Muni,United States
+695,LBT,34.61,-79.06,Lumberton,Municipal Airport,United States
+696,LCH,30.13,-93.22,Lake Charles,Lake Charles Rgnl,United States
+697,LCK,39.81,-82.93,Columbus,Rickenbacker Intl,United States
+698,LCQ,30.18,-82.58,Lake City,Lake City Municipal Airport,United States
+699,LDJ,40.62,-74.24,Linden,Linden Airport,United States
+700,LEB,43.63,-72.30,Lebanon,Lebanon Municipal Airport,United States
+701,LEW,44.05,-70.28,Lewiston,Lewiston Maine,United States
+702,LEX,38.04,-84.61,Lexington KY,Blue Grass,United States
+703,LFI,37.08,-76.36,Hampton,Langley Afb,United States
+704,LFK,31.23,-94.75,Lufkin,Angelina Co,United States
+705,LFT,30.21,-91.99,Lafayette,Lafayette Rgnl,United States
+706,LGA,40.78,-73.87,New York,La Guardia,United States
+707,LGB,33.82,-118.15,Long Beach,Long Beach,United States
+708,LGC,33.01,-85.07,LaGrange,LaGrange-Callaway Airport,United States
+709,LGU,41.79,-111.85,Logan,Logan-Cache,United States
+710,LHD,61.19,-149.97,Anchorage,Lake Hood Seaplane Base,United States
+711,LHM,38.91,-121.35,Lincoln,Lincoln Regional Airport Karl Harder Field,United States
+712,LHV,41.14,-77.42,Lock Haven,William T. Piper Mem.,United States
+713,LHX,38.05,-103.51,La Junta,La Junta Muni,United States
+714,LIH,21.98,-159.34,Lihue,Lihue,United States
+715,LIT,34.73,-92.22,Little Rock,Adams Fld,United States
+716,LIV,65.53,-148.54,Livingood,Livingood Airport,United States
+717,LKE,47.63,-122.34,Seattle,Kenmore Air Harbor Seaplane Base,United States
+718,LKK,58.97,-155.11,Kulik Lake,Kulik Lake Airport,United States
+719,LKP,44.26,-73.96,Lake Placid,Lake Placid Airport,United States
+720,LMT,42.16,-121.73,Klamath Falls,Klamath Falls Airport,United States
+721,LNA,26.59,-80.09,West Palm Beach,Palm Beach Co Park,United States
+722,LNK,40.85,-96.76,Lincoln,Lincoln,United States
+723,LNN,41.68,-81.39,Willoughby,Lost Nation Municipal Airport,United States
+724,LNR,43.21,-90.18,Lone Rock,Tri-County Regional Airport,United States
+725,LNS,40.12,-76.30,Lancaster,Lancaster Airport,United States
+726,LNY,20.79,-156.95,Lanai,Lanai,United States
+727,LOT,41.61,-88.08,Lockport,Lewis University Airport,United States
+728,LOU,38.23,-85.66,Louisville,Bowman Fld,United States
+729,LOZ,37.09,-84.08,London,London-Corbin Airport-MaGee Field,United States
+730,LPC,34.67,-120.47,Lompoc,Lompoc Airport,United States
+731,LPR,41.34,-82.18,Lorain-Elyria,Lorain County Regional Airport,United States
+732,LPS,48.48,-122.94,Lopez,Lopez Island Airport,United States
+733,LRD,27.54,-99.46,Laredo,Laredo Intl,United States
+734,LRF,34.92,-92.15,Jacksonville,Little Rock Afb,United States
+735,LRO,32.54,-79.47,Mount Pleasant,Mount Pleasant Regional-Faison Field,United States
+736,LRU,32.29,-106.92,Las Cruces,Las Cruces Intl,United States
+737,LSE,43.88,-91.26,La Crosse,La Crosse Municipal,United States
+738,LSF,32.34,-84.99,Fort Benning,Lawson Aaf,United States
+739,LSV,36.24,-115.03,Las Vegas,Nellis Afb,United States
+740,LTS,34.67,-99.27,Altus,Altus Afb,United States
+741,LUF,33.54,-112.38,Phoenix,Luke Afb,United States
+742,LUK,39.10,-84.42,Cincinnati,Cincinnati Muni Lunken Fld,United States
+743,LUP,21.21,-156.97,Molokai,Kalaupapa Airport,United States
+744,LUR,68.88,-166.11,Cape Lisburne,Cape Lisburne Lrrs,United States
+745,LVK,37.41,-121.49,Livermore,Livermore Municipal,United States
+746,LVM,45.70,-110.45,Livingston-Montana,Mission Field Airport,United States
+747,LVS,35.65,-105.14,Las Vegas,Las Vegas Muni,United States
+748,LWA,42.35,-86.26,South Haven,South Haven Area Regional Airport,United States
+749,LWB,37.86,-80.40,Lewisburg,Greenbrier Valley Airport,United States
+750,LWC,39.01,-95.22,Lawrence,Lawrence Municipal,United States
+751,LWM,42.72,-71.12,Lawrence,Lawrence Municipal Airport,United States
+752,LWS,46.37,-117.02,Lewiston,Lewiston Nez Perce Co,United States
+753,LWT,47.05,-109.47,Lewistown,Lewistown Municipal Airport,United States
+754,LXY,31.64,-96.51,Mexia,Mexia - Limestone County Airport,United States
+755,LYH,37.33,-79.20,Lynchburg,Lynchburg Regional Preston Glenn Field,United States
+756,LYU,47.82,-91.83,Ely,Ely Municipal,United States
+757,LZU,33.98,-83.96,Lawrenceville,Gwinnett County Airport-Briscoe Field,United States
+758,M94,46.41,-119.55,Mattawa,Desert Aire,United States
+759,MAE,36.99,-120.11,Madera,Madera Municipal Airport,United States
+760,MAF,31.94,-102.20,Midland,Midland Intl,United States
+761,MBL,44.27,-86.25,Manistee,Manistee County-Blacker Airport,United States
+762,MBS,43.53,-84.08,Saginaw,Mbs Intl,United States
+763,MCC,38.67,-121.40,Sacramento,Mc Clellan Afld,United States
+764,MCD,45.86,-84.64,Mackinac Island,Mackinac Island Airport,United States
+765,MCE,37.28,-120.51,Merced,Merced Municipal Airport,United States
+766,MCF,27.85,-82.52,Tampa,Macdill Afb,United States
+767,MCG,62.95,-155.61,Mcgrath,McGrath Airport,United States
+768,MCI,39.30,-94.71,Kansas City,Kansas City Intl,United States
+769,MCK,40.21,-100.59,McCook,McCook Regional Airport,United States
+770,MCL,63.73,-148.91,McKinley Park,McKinley National Park Airport,United States
+771,MCN,32.69,-83.65,Macon,Middle Georgia Rgnl,United States
+772,MCO,28.43,-81.31,Orlando,Orlando Intl,United States
+773,MCW,43.22,-93.41,Mason City,Mason City Municipal,United States
+774,MDT,40.19,-76.76,Harrisburg,Harrisburg Intl,United States
+775,MDW,41.79,-87.75,Chicago,Chicago Midway Intl,United States
+776,ME5,44.17,-68.43,Swans Island,Banks Airport,United States
+777,MEI,32.33,-88.75,Meridian,Key Field,United States
+778,MEM,35.04,-89.98,Memphis,Memphis Intl,United States
+779,MER,37.38,-120.57,Merced,Castle,United States
+780,MFD,40.82,-82.52,Mansfield,Mansfield Lahm Regional,United States
+781,MFE,26.18,-98.24,Mcallen,Mc Allen Miller Intl,United States
+782,MFI,44.64,-90.19,Marshfield,Marshfield Municipal Airport,United States
+783,MFR,42.37,-122.87,Medford,Rogue Valley Intl Medford,United States
+784,MGC,41.70,-86.82,Michigan City,Michigan City Municipal Airport,United States
+785,MGE,33.92,-84.52,Marietta,Dobbins Arb,United States
+786,MGJ,41.51,-74.26,Montgomery,Orange County Airport,United States
+787,MGM,32.30,-86.39,MONTGOMERY,Montgomery Regional Airport ,United States
+788,MGR,31.08,-83.80,Moultrie,Moultrie Municipal Airport,United States
+789,MGW,39.64,-79.92,Morgantown,Morgantown Muni Walter L Bill Hart Fld,United States
+790,MGY,39.59,-84.22,Dayton,Dayton-Wright Brothers Airport,United States
+791,MHK,39.14,-96.67,Manhattan,Manhattan Reigonal,United States
+792,MHM,63.89,-152.30,Lake Minchumina,Minchumina Airport,United States
+793,MHR,38.55,-121.30,Sacramento,Sacramento Mather,United States
+794,MHT,42.93,-71.44,Manchester NH,Manchester Regional Airport,United States
+795,MHV,35.06,-118.15,Mojave,Mojave,United States
+796,MIA,25.79,-80.29,Miami,Miami Intl,United States
+797,MIB,48.42,-101.36,Minot,Minot Afb,United States
+798,MIC,45.03,-93.21,Crystal,Crystal Airport,United States
+799,MIE,40.24,-85.40,Muncie,Delaware County Airport,United States
+800,MIV,39.37,-75.07,Millville,Millville Muni,United States
+801,MKC,39.13,-94.60,Kansas City,Downtown,United States
+802,MKE,42.95,-87.90,Milwaukee,General Mitchell Intl,United States
+803,MKG,43.17,-86.24,Muskegon,Muskegon County Airport,United States
+804,MKK,21.15,-157.10,Molokai,Molokai,United States
+805,MKL,35.60,-88.92,Jackson,Mc Kellar Sipes Rgnl,United States
+806,MKO,35.66,-95.37,Muskogee,Davis Fld,United States
+807,MLB,28.10,-80.65,Melbourne,Melbourne Intl,United States
+808,MLC,34.88,-95.78,Mcalester,Mc Alester Rgnl,United States
+809,MLD,42.17,-112.29,Malad City,Malad City,United States
+810,MLI,41.45,-90.51,Moline,Quad City Intl,United States
+811,MLJ,33.15,-83.24,Milledgeville,Baldwin County Airport,United States
+812,MLL,61.86,-162.03,Marshall,Marshall Don Hunter Sr. Airport,United States
+813,MLS,46.43,-105.89,Miles City,Frank Wiley Field,United States
+814,MLT,45.65,-68.69,Millinocket,Millinocket Muni,United States
+815,MLU,32.51,-92.04,Monroe,Monroe Rgnl,United States
+816,MLY,65.00,-150.64,Manley Hot Springs,Manley Hot Springs Airport,United States
+817,MMH,37.62,-118.84,Mammoth Lakes,Mammoth Yosemite Airport,United States
+818,MMI,35.40,-84.56,Athens,McMinn Co,United States
+819,MMU,40.80,-74.41,Morristown,Morristown Municipal Airport,United States
+820,MMV,45.19,-123.14,Mackminnville,Mc Minnville Muni,United States
+821,MNM,45.13,-87.64,Macon,Menominee Marinette Twin Co,United States
+822,MNT,65.14,-149.37,Minto,Minto Airport,United States
+823,MNZ,38.72,-77.52,Manassas,Manassas,United States
+824,MOB,30.69,-88.24,Mobile,Mobile Rgnl,United States
+825,MOD,37.63,-120.95,Modesto,Modesto City Co Harry Sham,United States
+826,MOT,48.26,-101.28,Minot,Minot Intl,United States
+827,MOU,62.10,-163.68,Mountain Village,Mountain Village Airport,United States
+828,MPB,25.78,-80.17,Miami,Miami Seaplane Base,United States
+829,MPI,37.30,-120.02,Mariposa,MariposaYosemite,United States
+830,MPV,44.20,-72.56,Montpelier,Edward F Knapp State,United States
+831,MQB,40.52,-90.65,Macomb,Macomb Municipal Airport,United States
+832,MQI,35.55,-75.42,Manteo,Dare County Regional,United States
+833,MQT,46.35,-87.40,Marquette,Sawyer International Airport,United States
+834,MRB,39.24,-77.59,Martinsburg,Eastern WV Regional Airport,United States
+835,MRI,61.21,-149.84,Anchorage,Merrill Fld,United States
+836,MRK,26.00,-81.67,Marco Island Airport,Marco Islands,United States
+837,MRN,35.82,-81.61,Morganton,Foothills Regional Airport,United States
+838,MRY,36.59,-121.84,Monterey,Monterey Peninsula,United States
+839,MSL,34.75,-87.61,Muscle Shoals,Northwest Alabama Regional Airport,United States
+840,MSN,43.14,-89.34,Madison,Dane Co Rgnl Truax Fld,United States
+841,MSO,46.92,-114.09,Missoula,Missoula Intl,United States
+842,MSP,44.88,-93.22,Minneapolis,Minneapolis St Paul Intl,United States
+843,MSS,44.94,-74.85,Massena,Massena Intl Richards Fld,United States
+844,MSY,29.99,-90.26,New Orleans,Louis Armstrong New Orleans Intl,United States
+845,MTC,42.61,-82.84,Mount Clemens,Selfridge Angb,United States
+846,MTH,24.73,-81.05,Marathon,Florida Keys Marathon Airport,United States
+847,MTJ,38.51,-107.89,Montrose CO,Montrose Regional Airport,United States
+848,MTM,55.13,-131.58,Metakatla,Metlakatla Seaplane Base,United States
+849,MTN,39.33,-76.41,Baltimore,Martin State,United States
+850,MUE,20.00,-155.67,Kamuela,Waimea Kohala,United States
+851,MUI,40.43,-76.57,Muir,Muir Aaf,United States
+852,MUO,43.04,-115.87,Mountain Home,Mountain Home Afb,United States
+853,MVL,44.54,-72.61,Morrisville,Morrisville Stowe State Airport,United States
+854,MVY,41.39,-70.62,Vineyard Haven MA,Martha\\'s Vineyard,United States
+855,MWA,37.75,-89.01,Marion,Williamson Country Regional Airport,United States
+856,MWC,43.11,-88.03,Milwaukee,Lawrence J Timmerman Airport,United States
+857,MWH,47.21,-119.32,Grant County Airport,Grant Co Intl,United States
+858,MWL,32.78,-98.06,Mineral Wells,Mineral Wells,United States
+859,MWM,43.91,-95.11,Windom,Windom Municipal Airport,United States
+860,MXF,32.38,-86.37,Montgomery,Maxwell Afb,United States
+861,MXY,61.44,-142.90,McCarthy,McCarthy Airport,United States
+862,MYF,32.48,117.76,San Diego,Montgomery Field,United States
+863,MYL,44.89,-116.10,McCall,McCall Municipal Airport,United States
+864,MYR,33.68,-78.93,Myrtle Beach,Myrtle Beach Intl,United States
+865,MYU,60.37,-166.27,Mekoryuk,Mekoryuk Airport,United States
+866,MYV,39.06,-121.34,Yuba City,Yuba County Airport,United States
+867,MZJ,32.51,-111.33,Marana,Pinal Airpark,United States
+868,N53,41.04,-75.16,East Stroudsburg,Stroudsburg-Pocono Airport,United States
+869,N69,41.58,-73.73,Stormville,Stormville Airport,United States
+870,N87,40.21,-74.60,Trenton,Trenton-Robbinsville Airport,United States
+871,NBG,29.83,-90.04,New Orleans,New Orleans Nas Jrb,United States
+872,NBU,42.09,-87.82,Glenview,Naval Air Station,United States
+873,NCN,60.08,-147.99,Chenega,Chenega Bay Airport,United States
+874,NEL,40.03,-74.35,Lakehurst,Lakehurst Naes,United States
+875,NEW,30.04,-90.03,New Orleans,Lakefront,United States
+876,NFL,39.42,-118.70,Fallon,Fallon Nas,United States
+877,NGF,21.45,-157.77,Kaneohe Bay,Kaneohe Bay Mcaf,United States
+878,NGP,27.69,-97.29,Corpus Christi,Corpus Christi NAS,United States
+879,NGU,36.94,-76.29,Norfolk,Norfolk Ns,United States
+880,NGZ,37.79,-122.32,Alameda,NAS Alameda,United States
+881,NHK,38.29,-76.41,Patuxent River,Patuxent River Nas,United States
+882,NIB,63.01,-154.38,Nikolai,Nikolai Airport,United States
+883,NID,35.69,-117.69,China,China Lake Naws,United States
+884,NIP,30.24,-81.68,Jacksonville,Jacksonville Nas,United States
+885,NJK,32.83,-115.67,El Centro,El Centro Naf,United States
+886,NKT,34.90,-76.88,Cherry Point,Cherry Point Mcas,United States
+887,NKX,32.87,-117.14,Miramar,Miramar Mcas,United States
+888,NLC,36.33,-119.95,Lemoore,Lemoore Nas,United States
+889,NLG,56.01,-161.16,Nelson Lagoon,Nelson Lagoon,United States
+890,NME,60.47,-164.70,Nightmute,Nightmute Airport,United States
+891,NMM,32.55,-88.56,Meridian,Meridian Nas,United States
+892,NNL,59.97,-154.85,Nondalton,Nondalton Airport,United States
+893,NOW,48.14,-123.41,Port Angeles,Port Angeles Cgas,United States
+894,NPA,30.35,-87.32,Pensacola,Pensacola Nas,United States
+895,NPZ,41.45,-87.01,Valparaiso,Porter County Municipal Airport,United States
+896,NQA,35.36,-89.87,Millington,Millington Rgnl Jetport,United States
+897,NQI,27.51,-97.81,Kingsville,Kingsville Nas,United States
+898,NQX,24.58,-81.69,Key West,Key West Nas,United States
+899,NSE,30.72,-87.02,Milton,Whiting Fld Nas North,United States
+900,NTD,34.12,-119.12,Point Mugu,Point Mugu Nas,United States
+901,NTU,36.82,-76.03,Oceana,Oceana Nas,United States
+902,NUI,70.21,-151.01,Nuiqsut,Nuiqsut Airport,United States
+903,NUL,64.73,-158.07,Nulato,Nulato Airport,United States
+904,NUP,60.91,-162.44,Nunapitchuk,Nunapitchuk Airport,United States
+905,NUQ,37.42,-122.05,Mountain View,Moffett Federal Afld,United States
+906,NUW,48.35,-122.66,Whidbey Island,Whidbey Island Nas,United States
+907,NXP,34.30,-116.16,Twenty Nine Palms,Twentynine Palms Eaf,United States
+908,NXX,40.20,-75.15,Willow Grove,Willow Grove Nas Jrb,United States
+909,NY9,43.98,-74.42,Long Lake,Long Lake,United States
+910,NYC,40.71,-74.01,New York,All Airports,United States
+911,NYG,38.50,-77.31,Quantico,Quantico Mcaf,United States
+912,NZC,30.22,-81.88,Jacksonville,Cecil Field,United States
+913,NZJ,33.68,-117.73,Santa Ana,El Toro,United States
+914,NZY,32.70,-117.22,San Diego,North Island Nas,United States
+915,O03,40.16,-75.87,Morgantown,Morgantown Airport,United States
+916,O27,37.76,-120.80,Oakdale,Oakdale Airport,United States
+917,OAJ,34.83,-77.61,Jacksonville NC,Albert J Ellis,United States
+918,OAK,37.72,-122.22,Oakland,Metropolitan Oakland Intl,United States
+919,OAR,36.68,-121.76,Fort Ord,Marina Muni,United States
+920,OBE,27.27,-80.85,Okeechobee,County,United States
+921,OBU,66.91,-156.90,Kobuk,Kobuk Airport,United States
+922,OCA,25.33,-80.27,Ocean Reef Club Airport,Key Largo,United States
+923,OCF,29.17,-82.22,Ocala,International Airport,United States
+924,OEB,41.93,-85.05,Coldwater,Branch County Memorial Airport,United States
+925,OFF,41.12,-95.91,Omaha,Offutt Afb,United States
+926,OGG,20.90,-156.43,Kahului,Kahului,United States
+927,OGS,44.68,-75.47,Ogdensburg,Ogdensburg Intl,United States
+928,OJC,38.51,-94.44,Olathe,Johnson County Airport,United States
+929,OKC,35.39,-97.60,Oklahoma City,Will Rogers World,United States
+930,OLF,48.09,-105.58,Wolf Point,LM Clayton Airport,United States
+931,OLH,57.22,-153.27,Old Harbor,Old Harbor Airport,United States
+932,OLM,46.97,-122.90,Olympia,Olympia Regional Airpor,United States
+933,OLS,31.42,-110.85,Nogales,Nogales Intl,United States
+934,OLT,32.76,-117.20,San Diego,San Diego Old Town Transit Center,United States
+935,OLV,34.88,-89.78,Olive Branch,Olive Branch Muni,United States
+936,OMA,41.30,-95.89,Omaha,Eppley Afld,United States
+937,OME,64.51,-165.45,Nome,Nome,United States
+938,OMN,29.18,-81.06,Ormond Beach,Ormond Beach municipal Airport,United States
+939,ONH,42.52,-75.06,Oneonta,Oneonta Municipal Airport,United States
+940,ONP,44.58,-124.06,Newport,Newport Municipal Airport,United States
+941,ONT,34.06,-117.60,Ontario,Ontario Intl,United States
+942,OOK,60.54,-165.09,Toksook Bay,Toksook Bay Airport,United States
+943,OPF,25.91,-80.28,Miami,Opa Locka,United States
+944,OQN,39.59,-75.35,West Goshen Township,Brandywine Airport,United States
+945,OQU,41.60,-71.41,North Kingstown,Quonset State Airport,United States
+946,ORD,41.98,-87.90,Chicago,Chicago Ohare Intl,United States
+947,ORF,36.89,-76.20,Norfolk,Norfolk Intl,United States
+948,ORH,42.27,-71.88,Worcester,Worcester Regional Airport,United States
+949,ORI,57.89,-152.85,Port Lions,Port Lions Airport,United States
+950,ORL,28.55,-81.33,Orlando,Executive,United States
+951,ORT,62.96,-141.93,Northway,Northway,United States
+952,ORV,66.82,-161.02,Noorvik,Robert Curtis Memorial Airport,United States
+953,OSC,44.45,-83.39,Oscoda,Oscoda Wurtsmith,United States
+954,OSH,44.02,-88.55,Oshkosh,Wittman Regional Airport,United States
+955,OSU,40.08,-83.07,Columbus,Ohio State University Airport,United States
+956,OTH,43.42,-124.25,North Bend,Southwest Oregon Regional Airport,United States
+957,OTS,48.50,-122.66,Anacortes,Anacortes Airport,United States
+958,OTZ,66.88,-162.60,Kotzebue,Ralph Wien Mem,United States
+959,OWB,37.74,-87.17,Owensboro,Owensboro Daviess County Airport,United States
+960,OWD,42.19,-71.17,Norwood,Norwood Memorial Airport,United States
+961,OXC,41.48,-73.14,Oxford,Waterbury-Oxford Airport,United States
+962,OXD,39.50,-84.78,Oxford,Miami University Airport,United States
+963,OXR,34.20,-119.21,Oxnard,Oxnard - Ventura County,United States
+964,OZA,30.74,-101.20,Ozona,Ozona Muni,United States
+965,P08,32.94,-111.43,Cooldige,Coolidge Municipal Airport,United States
+966,P52,34.73,-112.04,Cottonwood,Cottonwood Airport,United States
+967,PAE,47.91,-122.28,Everett,Snohomish Co,United States
+968,PAH,37.06,-88.77,PADUCAH,Barkley Regional Airport,United States
+969,PAM,30.07,-85.58,Panama City,Tyndall Afb,United States
+970,PAO,37.46,-122.12,Palo Alto,Palo Alto Airport of Santa Clara County,United States
+971,PAQ,61.59,-149.09,Palmer,Palmer Muni,United States
+972,PBF,34.17,-91.94,Pine Bluff,Grider Fld,United States
+973,PBG,44.65,-73.47,Plattsburgh,Plattsburgh Intl,United States
+974,PBI,26.68,-80.10,West Palm Beach,Palm Beach Intl,United States
+975,PBV,56.58,-169.66,Point Barrow,St George,United States
+976,PBX,37.56,-82.57,Pikeville,Pike County Airport - Hatcher Field,United States
+977,PCW,41.52,-82.87,Port Clinton,Erie-Ottawa Regional Airport,United States
+978,PCZ,44.33,-89.02,Waupaca,Waupaca Municipal Airport,United States
+979,PDB,59.78,-154.13,Pedro Bay,Pedro Bay Airport,United States
+980,PDK,33.88,-84.30,Atlanta,Dekalb-Peachtree Airport,United States
+981,PDT,45.70,-118.84,Pendleton,Eastern Oregon Regional Airport,United States
+982,PDX,45.59,-122.60,Portland,Portland Intl,United States
+983,PEC,57.96,-136.24,Pelican,Pelican Seaplane Base,United States
+984,PEQ,31.38,-103.51,Pecos,Pecos Municipal Airport,United States
+985,PFN,30.21,-85.68,Panama City,Panama City Bay Co Intl,United States
+986,PGA,36.93,-111.45,Page,Page Municipal Airport,United States
+987,PGD,26.92,-81.99,Punta Gorda,Charlotte County-Punta Gorda Airport,United States
+988,PGV,35.64,-77.39,Greenville,Pitt-Greenville Airport,United States
+989,PHD,40.47,-81.42,New Philadelpha,Harry Clever Field Airport,United States
+990,PHF,37.13,-76.49,Newport News,Newport News Williamsburg Intl,United States
+991,PHK,26.79,-80.69,Pahokee,Pahokee Airport,United States
+992,PHL,39.87,-75.24,Philadelphia,Philadelphia Intl,United States
+993,PHN,42.91,-82.53,Port Huron,St Clair Co Intl,United States
+994,PHO,68.35,-166.80,Point Hope,Point Hope Airport,United States
+995,PHX,33.43,-112.01,Phoenix,Phoenix Sky Harbor Intl,United States
+996,PIA,40.66,-89.69,Peoria,Peoria Regional,United States
+997,PIB,31.47,-89.34,Hattiesburg/Laurel,Hattiesburg Laurel Regional Airport,United States
+998,PIE,27.91,-82.69,St. Petersburg,St Petersburg Clearwater Intl,United States
+999,PIH,42.91,-112.60,Pocatello,Pocatello Regional Airport,United States
+1000,PIM,32.84,-84.88,Pine Mountain,Harris County Airport,United States
+1001,PIP,57.59,-157.57,Pilot Point,Pilot Point Airport,United States
+1002,PIR,44.38,-100.29,Pierre,Pierre Regional Airport,United States
+1003,PIT,40.49,-80.23,Pittsburgh,Pittsburgh Intl,United States
+1004,PIZ,69.73,-163.01,Point Lay,Point Lay Lrrs,United States
+1005,PKB,39.35,-81.44,PARKERSBURG,Mid-Ohio Valley Regional Airport,United States
+1006,PLN,45.57,-84.80,Pellston,Pellston Regional Airport of Emmet County Airport,United States
+1007,PMB,48.94,-97.24,Pembina,Pembina Muni,United States
+1008,PMD,34.63,-118.08,Palmdale,Palmdale Rgnl Usaf Plt 42,United States
+1009,PML,56.01,-160.56,Cold Bay,Port Moller Airport,United States
+1010,PMP,26.25,-80.11,Pompano Beach,Pompano Beach Airpark,United States
+1011,PNC,36.73,-97.10,Ponca City,Ponca City Rgnl,United States
+1012,PNE,40.08,-75.01,Philadelphia,Northeast Philadelphia,United States
+1013,PNM,45.56,-93.61,Princeton,Princeton Muni,United States
+1014,PNS,30.47,-87.19,Pensacola,Pensacola Rgnl,United States
+1015,POB,35.17,-79.01,Fort Bragg,Pope Field,United States
+1016,POC,34.09,-117.78,La Verne,Brackett Field,United States
+1017,POE,31.04,-93.19,Fort Polk,Polk Aaf,United States
+1018,POF,36.77,-90.32,Poplar Bluff,Poplar Bluff Municipal Airport,United States
+1019,PPC,66.81,-150.64,Prospect Creek,Prospect Creek Airport,United States
+1020,PPV,56.33,-133.61,Port Protection,Port Protection Seaplane Base,United States
+1021,PQI,46.69,-68.04,Presque Isle,Northern Maine Rgnl At Presque Isle,United States
+1022,PQS,61.93,-162.90,Pilot Station,Pilot Station Airport,United States
+1023,PRC,34.65,-112.42,Prescott,Ernest A Love Fld,United States
+1024,PRL,60.21,-147.82,Port Oceanic,Port Oceanic Airport,United States
+1025,PSC,46.26,-119.12,Pasco,Tri Cities Airport,United States
+1026,PSG,56.80,-132.95,Petersburg,Petersburg James A. Johnson,United States
+1027,PSM,43.08,-70.82,Portsmouth,Pease International Tradeport,United States
+1028,PSP,33.83,-116.51,Palm Springs,Palm Springs Intl,United States
+1029,PSX,28.73,-96.25,Palacios,Palacios Muni,United States
+1030,PTA,60.21,-154.31,Port alsworth,Port Alsworth Airport,United States
+1031,PTB,37.18,-77.51,Petersburg,Dinwiddie County Airport,United States
+1032,PTH,56.96,-158.63,Port Heiden,Port Heiden Airport,United States
+1033,PTK,42.67,-83.35,Pontiac,Oakland Co. Intl,United States
+1034,PTU,59.01,-161.82,Port Moller,Platinum,United States
+1035,PUB,38.29,-104.50,Pueblo,Pueblo Memorial,United States
+1036,PUC,39.61,-110.75,Price,Carbon County Regional-Buck Davis Field,United States
+1037,PUW,46.74,-117.11,Pullman,Pullman-Moscow Rgnl,United States
+1038,PVC,42.07,-70.22,Provincetown,Provincetown Muni,United States
+1039,PVD,41.73,-71.42,Providence,Theodore Francis Green State,United States
+1040,PVU,40.22,-111.72,Provo,Provo Municipal Airport,United States
+1041,PWK,42.11,-87.90,Chicago-Wheeling,Chicago Executive,United States
+1042,PWM,43.65,-70.31,Portland,Portland Intl Jetport,United States
+1043,PWT,47.49,-122.76,Bremerton,Bremerton National,United States
+1044,PYM,41.91,-70.73,Plymouth,Plymouth Municipal Airport,United States
+1045,PYP,34.09,-85.61,Centre,Centre-Piedmont-Cherokee County Regional Airport,United States
+1046,R49,48.72,-118.66,Republic,Ferry County Airport,United States
+1047,RAC,42.76,-87.82,Racine,John H. Batten Airport,United States
+1048,RAL,33.95,-117.45,Riverside,Riverside Muni,United States
+1049,RAP,44.05,-103.06,Rapid City,Rapid City Regional Airport,United States
+1050,RBD,32.68,-96.87,Dallas,Dallas Executive Airport,United States
+1051,RBK,33.57,-117.13,Murrieta-Temecula,French Valley Airport,United States
+1052,RBM,34.85,-92.30,Robinson,Robinson Aaf,United States
+1053,RBN,24.62,-82.87,Fort Jefferson - Dry Tortugas,Fort Jefferson,United States
+1054,RBY,64.73,-155.47,Ruby,Ruby Airport,United States
+1055,RCA,44.15,-103.10,Rapid City,Ellsworth Afb,United States
+1056,RCE,48.61,-123.16,Roche Harbor,Roche Harbor Seaplane Base,United States
+1057,RCZ,34.89,-79.76,Rockingham,Richmond County Airport,United States
+1058,RDD,40.51,-122.29,Redding,Redding Muni,United States
+1059,RDG,40.38,-75.97,Reading,Reading Regional Carl A Spaatz Field,United States
+1060,RDM,44.25,-121.15,Redmond-Bend,Roberts Fld,United States
+1061,RDR,47.96,-97.40,Red River,Grand Forks Afb,United States
+1062,RDU,35.88,-78.79,Raleigh-durham,Raleigh Durham Intl,United States
+1063,RDV,61.79,-157.35,Red Devil,Red Devil Airport,United States
+1064,REI,34.09,-117.15,Redlands,Redlands Municipal Airport,United States
+1065,RFD,42.20,-89.10,Rockford,Chicago Rockford International Airport ,United States
+1066,RHI,45.63,-89.47,Rhinelander,Rhinelander Oneida County Airport,United States
+1067,RIC,37.51,-77.32,Richmond,Richmond Intl,United States
+1068,RID,39.76,-84.84,Richmond,Richmond Municipal Airport,United States
+1069,RIF,38.74,-112.10,Richfield,Richfield Minicipal Airport,United States
+1070,RIL,39.53,-107.73,Rifle,Garfield County Regional Airport,United States
+1071,RIR,33.99,-117.41,Riverside,Flabob Airport,United States
+1072,RIU,38.49,-121.10,Rancho Murieta,Rancho Murieta,United States
+1073,RIV,33.88,-117.26,Riverside,March Arb,United States
+1074,RIW,43.06,-108.46,Riverton WY,Riverton Regional,United States
+1075,RKD,44.06,-69.10,Rockland,Knox County Regional Airport,United States
+1076,RKH,34.99,-81.06,Rock Hill,Rock Hill York Co Bryant Airport,United States
+1077,RKP,28.09,-97.04,Rockport,Aransas County Airport,United States
+1078,RKS,41.59,-109.07,Rock Springs,Rock Springs Sweetwater County Airport,United States
+1079,RME,43.23,-75.41,Rome,Griffiss Afld,United States
+1080,RMG,34.35,-85.16,Rome,Richard B Russell Airport,United States
+1081,RMP,65.51,-150.14,Rampart,Rampart Airport,United States
+1082,RMY,42.25,-84.96,Marshall,Brooks Field Airport,United States
+1083,RND,29.53,-98.28,San Antonio,Randolph Afb,United States
+1084,RNM,33.04,-116.92,Ramona,Ramona Airport,United States
+1085,RNO,39.50,-119.77,Reno,Reno Tahoe Intl,United States
+1086,RNT,47.49,-122.22,Renton,Renton,United States
+1087,ROA,37.33,-79.98,Roanoke VA,Roanoke Regional,United States
+1088,ROC,43.12,-77.67,Rochester,Greater Rochester Intl,United States
+1089,ROW,33.30,-104.53,Roswell,Roswell Intl Air Center,United States
+1090,RSH,61.78,-161.32,Russian Mission,Russian Mission Airport,United States
+1091,RSJ,48.65,-122.87,Rosario,Rosario Seaplane Base,United States
+1092,RST,43.91,-92.50,Rochester,Rochester,United States
+1093,RSW,26.54,-81.76,Fort Myers,Southwest Florida Intl,United States
+1094,RUT,43.53,-72.95,Rutland,Rutland State Airport,United States
+1095,RVS,36.04,-95.98,Tulsa,Richard Lloyd Jones Jr Airport,United States
+1096,RWI,35.86,-77.89,Rocky Mount,Rocky Mount Wilson Regional Airport,United States
+1097,RWL,41.81,-107.20,Rawlins,Rawlins Municipal Airport-Harvey Field,United States
+1098,RYY,34.01,-84.60,Atlanta,Cobb County Airport-Mc Collum Field,United States
+1099,S30,44.32,-122.56,Lebanon,Lebanon State,United States
+1100,S40,46.13,-119.48,Prosser,Prosser,United States
+1101,S46,28.43,-96.44,Port O\\'Connor,Port O\\'Connor Airfield,United States
+1102,SAA,41.44,-106.82,SARATOGA,Shively Field Airport,United States
+1103,SAC,38.51,-121.49,Sacramento,Sacramento Executive,United States
+1104,SAD,32.85,-109.64,Safford,Safford Regional Airport,United States
+1105,SAF,35.62,-106.09,Santa Fe,Santa Fe Muni,United States
+1106,SAN,32.73,-117.19,San Diego,San Diego Intl,United States
+1107,SAT,29.53,-98.47,San Antonio,San Antonio Intl,United States
+1108,SAV,32.13,-81.20,Savannah,Savannah Hilton Head Intl,United States
+1109,SBA,34.43,-119.84,Santa Barbara,Santa Barbara Muni,United States
+1110,SBD,34.10,-117.23,San Bernardino,San Bernardino International Airport,United States
+1111,SBM,43.77,-87.85,Sheboygan,Sheboygan County Memorial Airport,United States
+1112,SBN,41.71,-86.32,South Bend,South Bend Rgnl,United States
+1113,SBO,32.61,-82.37,Santa Barbara,Emanuel Co,United States
+1114,SBP,35.24,-120.64,San Luis Obispo,San Luis County Regional Airport,United States
+1115,SBS,40.52,-106.87,Steamboat Springs,Steamboat Springs Airport-Bob Adams Field,United States
+1116,SBY,38.34,-75.51,Salisbury,Salisbury Ocean City Wicomico Rgnl,United States
+1117,SCC,70.19,-148.47,Deadhorse,Deadhorse,United States
+1118,SCE,40.85,-77.85,State College Pennsylvania,University Park Airport,United States
+1119,SCH,42.85,-73.93,Scotia NY,Stratton ANGB - Schenectady County Airpor,United States
+1120,SCK,37.89,-121.24,Stockton,Stockton Metropolitan,United States
+1121,SCM,61.85,-165.57,Scammon Bay,Scammon Bay Airport,United States
+1122,SDC,43.23,-77.12,Williamson,Williamson-Sodus Airport,United States
+1123,SDF,38.17,-85.74,Louisville,Louisville International Airport,United States
+1124,SDM,32.57,-116.98,San Diego,Brown Field Municipal Airport,United States
+1125,SDP,55.32,-160.52,Sand Point,Sand Point Airport,United States
+1126,SDX,34.85,-111.79,Sedona,Sedona,United States
+1127,SDY,47.71,-104.19,Sidney,Sidney-Richland Municipal Airport,United States
+1128,SEA,47.45,-122.31,Seattle,Seattle Tacoma Intl,United States
+1129,SEE,32.83,-116.97,El Cajon,Gillespie,United States
+1130,SEF,27.46,-81.34,Sebring,Regional - Hendricks AAF,United States
+1131,SEM,32.34,-86.99,Selma,Craig Fld,United States
+1132,SES,32.44,-86.95,Selma Alabama,Selfield Airport,United States
+1133,SFB,28.78,-81.24,Sanford,Orlando Sanford Intl,United States
+1134,SFF,47.68,-117.32,Spokane,Felts Fld,United States
+1135,SFM,43.39,-70.71,Sanford ME,Sanford Regional,United States
+1136,SFO,37.62,-122.37,San Francisco,San Francisco Intl,United States
+1137,SFZ,41.92,-71.49,Smithfield,North Central State,United States
+1138,SGF,37.25,-93.39,Springfield,Springfield Branson Natl,United States
+1139,SGH,39.84,-83.84,Springfield,Springfield-Beckly Municipal Airport,United States
+1140,SGJ,29.96,-81.34,St. Augustine,St. Augustine Airport,United States
+1141,SGR,29.62,-95.66,Sugar Land,Sugar Land Regional Airport,United States
+1142,SGU,37.09,-113.59,Saint George,St George Muni,United States
+1143,SGY,59.46,-135.32,Skagway,Skagway Airport,United States
+1144,SHD,38.26,-78.90,Weyers Cave,Shenandoah Valley Regional Airport,United States
+1145,SHG,66.89,-157.16,Shungnak,Shungnak Airport,United States
+1146,SHH,66.25,-166.09,Shishmaref,Shishmaref Airport,United States
+1147,SHR,44.77,-106.98,Sheridan,Sheridan County Airport,United States
+1148,SHV,32.45,-93.83,Shreveport,Shreveport Rgnl,United States
+1149,SHX,62.69,-159.57,Shageluk,Shageluk Airport,United States
+1150,SIK,36.90,-89.56,Sikeston,Sikeston Memorial Municipal,United States
+1151,SIT,57.05,-135.36,Sitka,Sitka Rocky Gutierrez,United States
+1152,SJC,37.36,-121.93,San Jose,Norman Y Mineta San Jose Intl,United States
+1153,SJT,31.36,-100.50,San Angelo,San Angelo Rgnl Mathis Fld,United States
+1154,SKA,47.62,-117.66,Spokane,Fairchild Afb,United States
+1155,SKF,29.38,-98.58,San Antonio,Lackland Afb Kelly Fld Annex,United States
+1156,SKK,64.37,-161.22,Shaktoolik,Shaktoolik Airport,United States
+1157,SKY,41.43,-82.65,Sandusky,Griffing Sandusky,United States
+1158,SLC,40.79,-111.98,Salt Lake City,Salt Lake City Intl,United States
+1159,SLE,44.91,-123.00,Salem,McNary Field,United States
+1160,SLK,44.39,-74.21,Saranac Lake,Adirondack Regional Airport,United States
+1161,SLN,38.79,-97.65,Salina,Salina Municipal Airport,United States
+1162,SLQ,61.70,-157.17,Sleetmute,Sleetmute Airport,United States
+1163,SMD,41.14,-85.15,Fort Wayne IN,Smith Fld,United States
+1164,SME,37.05,-84.62,Somerset,Lake Cumberland Regional Airport,United States
+1165,SMF,38.70,-121.59,Sacramento,Sacramento Intl,United States
+1166,SMK,63.49,-162.11,St. Michael,St. Michael Airport,United States
+1167,SMN,45.12,-113.88,Salmon,Lemhi County Airport,United States
+1168,SMO,34.02,-118.45,Santa Monica,Santa Monica Municipal Airport,United States
+1169,SMX,34.90,-120.46,Santa Maria,Santa Maria Pub Cpt G Allan Hancock Airport,United States
+1170,SNA,33.68,-117.87,Santa Ana,John Wayne Arpt Orange Co,United States
+1171,SNP,57.17,-170.22,St. Paul Island,St Paul Island,United States
+1172,SNY,41.10,-102.99,Sidney,Sidney Muni Airport,United States
+1173,SOP,35.24,-79.39,Pinehurst-Southern Pines,Moore County Airport,United States
+1174,SOW,34.27,-110.01,Show Low,Show Low Regional Airport,United States
+1175,SPB,45.77,-122.86,San Luis,Scappoose Industrial Airpark,United States
+1176,SPF,44.48,-103.79,Spearfish-South Dakota,Black Hills Airport-Clyde Ice Field,United States
+1177,SPG,27.77,-82.63,St. Petersburg,Albert Whitted,United States
+1178,SPI,39.84,-89.68,Springfield,Abraham Lincoln Capital,United States
+1179,SPS,33.99,-98.49,Wichita Falls,Sheppard Afb Wichita Falls Muni,United States
+1180,SPW,43.17,-95.20,Spencer,Spencer Muni,United States
+1181,SPZ,39.40,-119.25,Silver Springs,Silver Springs Airport,United States
+1182,SQL,37.51,-122.25,San Carlos,San Carlos Airport,United States
+1183,SRQ,27.40,-82.55,Sarasota,Sarasota Bradenton Intl,United States
+1184,SRR,33.46,-105.53,Ruidoso,Sierra Blanca Regional Airport,United States
+1185,SRV,61.79,-156.59,Stony River,Stony River 2 Airport,United States
+1186,SSC,33.97,-80.47,Sumter,Shaw Afb,United States
+1187,SSI,31.15,-81.39,Brunswick,McKinnon Airport,United States
+1188,STC,45.55,-94.06,Saint Cloud,Saint Cloud Regional Airport,United States
+1189,STE,44.55,-89.53,Stevens Point,Stevens Point Municipal Airport,United States
+1190,STG,56.58,-169.66,St. George,St. George Airport,United States
+1191,STJ,39.77,-94.91,Rosecrans,Rosecrans Mem,United States
+1192,STK,40.62,-103.26,Sterling,Sterling Municipal Airport,United States
+1193,STL,38.75,-90.37,St. Louis,Lambert St Louis Intl,United States
+1194,STS,38.51,-122.81,Santa Rosa,Charles M Schulz Sonoma Co,United States
+1195,SUA,27.18,-80.22,Stuart,Witham Field Airport,United States
+1196,SUE,44.84,-87.42,Sturgeon Bay,Door County Cherryland Airport,United States
+1197,SUN,43.50,-114.30,Hailey,Friedman Mem,United States
+1198,SUS,38.66,-90.65,Null,Spirit Of St Louis,United States
+1199,SUU,38.26,-121.93,Fairfield,Travis Afb,United States
+1200,SUX,42.40,-96.38,Sioux City,Sioux Gateway Col Bud Day Fld,United States
+1201,SVA,63.69,-170.49,Savoonga,Savoonga Airport,United States
+1202,SVC,32.64,-108.16,Silver City,Grant County Airport,United States
+1203,SVH,35.76,-80.95,Statesville,Regional Airport,United States
+1204,SVN,32.01,-81.15,Hunter Aaf,Hunter Aaf,United States
+1205,SVW,61.10,-155.57,Sparrevohn,Sparrevohn Lrrs,United States
+1206,SWD,60.13,-149.42,Seward,Seward Airport,United States
+1207,SWF,41.50,-74.10,Newburgh,Stewart Intl,United States
+1208,SXP,62.52,-164.85,Nunam Iqua,Sheldon Point Airport,United States
+1209,SXQ,60.47,-151.04,Soldotna,Soldotna Airport,United States
+1210,SYA,52.71,174.11,Shemya,Eareckson As,United States
+1211,SYB,58.17,-152.50,Seal Bay,Seal Bay Seaplane Base,United States
+1212,SYR,43.11,-76.11,Syracuse,Syracuse Hancock Intl,United States
+1213,SZL,38.73,-93.55,Knobnoster,Whiteman Afb,United States
+1214,TAL,65.18,-152.08,Tanana,Tanana Airport,United States
+1215,TAN,41.87,-71.02,Taunton,Taunton Municipal Airport - King Field,United States
+1216,TBN,37.74,-92.14,Fort Leonardwood,Waynesville Rgnl Arpt At Forney Fld,United States
+1217,TCC,35.18,-103.60,Tucumcari,Tucumcari Muni,United States
+1218,TCL,33.22,-87.61,Tuscaloosa AL,Tuscaloosa Rgnl,United States
+1219,TCM,47.14,-122.48,Tacoma,Mc Chord Afb,United States
+1220,TCS,33.24,-107.27,Truth Or Consequences,Truth Or Consequences Muni,United States
+1221,TCT,62.97,-156.08,Takotna,Takotna Airport,United States
+1222,TEB,40.85,-74.06,Teterboro,Teterboro,United States
+1223,TEK,60.87,-146.69,Tatitlek,Tatitlek Airport,United States
+1224,TEX,37.95,-107.91,Telluride,Telluride,United States
+1225,TIK,35.41,-97.39,Oklahoma City,Tinker Afb,United States
+1226,TIW,47.27,-122.58,Tacoma,Tacoma Narrows Airport,United States
+1227,TIX,28.51,-80.80,Titusville,Space Coast Reg'l Airport,United States
+1228,TKA,62.32,-150.09,Talkeetna,Talkeetna,United States
+1229,TKE,57.78,-135.22,Tenakee Springs,Tenakee Seaplane Base,United States
+1230,TKF,39.32,-120.14,Truckee,Truckee-Tahoe Airport,United States
+1231,TKI,33.18,-96.59,DALLAS,Collin County Regional Airport at Mc Kinney,United States
+1232,TLA,65.24,-166.34,Teller,Teller Airport,United States
+1233,TLH,30.40,-84.35,Tallahassee,Tallahassee Rgnl,United States
+1234,TLJ,62.89,-155.98,Tatalina,Tatalina Lrrs,United States
+1235,TLT,61.10,-160.97,Tuluksak,Tuluksak Airport,United States
+1236,TMA,31.43,-83.49,Tifton,Henry Tift Myers Airport,United States
+1237,TMB,25.65,-80.43,Kendall-tamiami,Kendall Tamiami Executive,United States
+1238,TNC,65.56,-167.92,Tin City,Tin City LRRS Airport,United States
+1239,TNK,60.58,-165.27,Tununak,Tununak Airport,United States
+1240,TNT,25.86,-80.90,Miami,Dade Collier Training And Transition,United States
+1241,TNX,37.80,-116.78,Tonopah,Tonopah Test Range,United States
+1242,TOA,33.80,-118.34,Torrance,Zamperini Field Airport,United States
+1243,TOC,34.59,-83.30,Toccoa,Toccoa RG Letourneau Field Airport,United States
+1244,TOG,59.05,-160.40,Togiak Village,Togiak Airport,United States
+1245,TOL,41.59,-83.81,Toledo,Toledo,United States
+1246,TOP,39.07,-95.62,Topeka,Philip Billard Muni,United States
+1247,TPA,27.98,-82.53,Tampa,Tampa Intl,United States
+1248,TPL,31.15,-97.41,Temple,Draughon Miller Central Texas Rgnl,United States
+1249,TRI,36.48,-82.41,BRISTOL,Tri-Cities Regional Airport,United States
+1250,TRM,33.63,-116.16,Palm Springs,Jacqueline Cochran Regional Airport,United States
+1251,TSS,40.74,-73.97,New York,East 34th Street Heliport,United States
+1252,TTD,45.55,-122.40,Troutdale,Portland Troutdale,United States
+1253,TTN,40.28,-74.81,Trenton,Trenton Mercer,United States
+1254,TUL,36.20,-95.89,Tulsa,Tulsa Intl,United States
+1255,TUP,34.27,-88.77,Tupelo,Tupelo Regional Airport,United States
+1256,TUS,32.12,-110.94,Tucson,Tucson Intl,United States
+1257,TVC,44.74,-85.58,Traverse City,Cherry Capital Airport,United States
+1258,TVF,48.07,-96.19,Thief River Falls,Thief River Falls,United States
+1259,TVI,30.90,-83.88,Thomasville,Thomasville Regional Airport,United States
+1260,TVL,38.89,-120.00,South Lake Tahoe,Lake Tahoe Airport,United States
+1261,TWA,59.07,-160.28,Twin Hills,Twin Hills Airport,United States
+1262,TWD,48.03,-122.48,Port Townsend,Jefferson County Intl,United States
+1263,TWF,42.48,-114.49,Twin Falls,Magic Valley Regional Airport,United States
+1264,TXK,33.45,-93.99,Texarkana,Texarkana Rgnl Webb Fld,United States
+1265,TYE,61.08,-151.14,Tyonek,Tyonek Airport,United States
+1266,TYR,32.35,-95.40,Tyler,Tyler Pounds Rgnl,United States
+1267,TYS,35.81,-83.99,Knoxville,Mc Ghee Tyson,United States
+1268,TZR,39.90,-83.14,Columbus,Bolton Field,United States
+1269,U76,43.13,-115.73,Mountain Home,Mountain Home Municipal Airport,United States
+1270,UCA,43.10,-75.22,Utica,Union Station,United States
+1271,UDD,33.75,-116.27,Palm Springs,Bermuda Dunes Airport,United States
+1272,UDG,34.45,-79.89,Darlington,Darlington County Jetport,United States
+1273,UES,43.04,-88.24,Waukesha,Waukesha County Airport,United States
+1274,UGN,42.42,-87.87,Chicago,Waukegan Rgnl,United States
+1275,UIN,39.94,-91.19,Quincy,Quincy Regional Baldwin Field,United States
+1276,UMP,39.94,-86.05,Indianapolis,Indianapolis Metropolitan Airport,United States
+1277,UNK,63.89,-160.80,Unalakleet,Unalakleet Airport,United States
+1278,UPP,20.27,-155.86,Opolu,Upolu,United States
+1279,UST,29.96,-81.34,St. Augustine Airport,St. Augustine Airport,United States
+1280,UT3,37.89,-110.38,Hanksville,Hite Airport,United States
+1281,UTM,34.68,-90.35,Tunica,Tunica Municipal Airport,United States
+1282,UTO,65.99,-153.70,Indian Mountains,Indian Mountain Lrrs,United States
+1283,UUK,70.33,-149.60,Kuparuk,Ugnu-Kuparuk Airport,United States
+1284,UUU,41.53,-71.28,Newport RI,Newport State,United States
+1285,UVA,29.22,-99.75,Uvalde,Garner Field,United States
+1286,VAD,30.97,-83.19,Valdosta,Moody Afb,United States
+1287,VAK,61.53,-165.58,Chevak,Chevak Airport,United States
+1288,VAY,39.94,-74.85,Mount Holly,South Jersey Regional Airport,United States
+1289,VBG,34.74,-120.58,Lompoc,Vandenberg Afb,United States
+1290,VCT,28.85,-96.92,Victoria,Victoria Regional Airport,United States
+1291,VCV,34.60,-117.38,Victorville,Southern California Logistics,United States
+1292,VDF,28.01,-82.35,Tampa,Tampa Executive Airport,United States
+1293,VDZ,61.13,-146.25,Valdez,Valdez Pioneer Fld,United States
+1294,VEE,67.01,-146.37,Venetie,Venetie Airport,United States
+1295,VEL,40.44,-109.51,Vernal,Vernal Regional Airport,United States
+1296,VGT,36.21,-115.19,Las Vegas,North Las Vegas Airport,United States
+1297,VIS,36.32,-119.39,Visalia,Visalia Municipal Airport,United States
+1298,VLD,30.78,-83.28,Valdosta,Valdosta Regional Airport,United States
+1299,VNW,40.86,-84.61,Van Wert,Van Wert County Airport,United States
+1300,VNY,34.21,-118.49,Van Nuys,Van Nuys,United States
+1301,VOK,43.94,-90.25,Camp Douglas,Volk Fld,United States
+1302,VPC,34.12,-84.85,Cartersville,Cartersville Airport,United States
+1303,VPS,30.48,-86.53,Valparaiso,Eglin Afb,United States
+1304,VRB,27.66,-80.42,Vero Beach,Vero Beach Muni,United States
+1305,VSF,43.34,-72.52,Springfield VT,Hartness State,United States
+1306,VYS,41.35,-89.15,Peru,Illinois Valley Regional,United States
+1307,W04,46.60,-124.09,Ocean Shores,Ocean Shores Municipal,United States
+1308,W13,38.08,-78.94,Waynesboro,Eagle's Nest Airport,United States
+1309,WAA,65.62,-168.10,Wales,Wales Airport,United States
+1310,WAL,37.94,-75.47,Wallops Island,Wallops Flight Facility,United States
+1311,WAS,38.89,-77.04,Washington,All Airports,United States
+1312,WBB,63.52,-162.28,Stebbins,Stebbins Airport,United States
+1313,WBQ,66.36,-147.41,Beaver,Beaver Airport,United States
+1314,WBU,40.04,-105.23,Boulder,Boulder Municipal,United States
+1315,WBW,41.30,-75.85,Wilkes-Barre,Wilkes-Barre Wyoming Valley Airport,United States
+1316,WDR,33.98,-83.67,Winder,Barrow County Airport,United States
+1317,WFB,55.34,-131.66,Ketchikan,Ketchikan harbor Seaplane Base,United States
+1318,WFK,47.29,-68.31,Frenchville,Northern Aroostook Regional Airport,United States
+1319,WHD,55.90,-130.01,Hyder,Hyder Seaplane Base,United States
+1320,WHP,34.26,-118.41,Los Angeles,Whiteman Airport,United States
+1321,WIH,45.66,-120.97,Wishram,Wishram Amtrak Station,United States
+1322,WKK,59.28,-158.62,Aleknagik,Aleknagik Airport,United States
+1323,WKL,19.91,-155.86,Waikoloa Village,Waikoloa Heliport,United States
+1324,WLK,66.60,-159.99,Selawik,Selawik Airport,United States
+1325,WMO,64.69,-163.41,White Mountain,White Mountain Airport,United States
+1326,WRB,32.64,-83.59,Macon,Robins Afb,United States
+1327,WRG,56.48,-132.37,Wrangell,Wrangell Airport,United States
+1328,WRI,40.02,-74.59,Wrightstown,Mc Guire Afb,United States
+1329,WRL,43.97,-107.95,Worland,Worland Municipal Airport,United States
+1330,WSD,32.34,-106.40,White Sands,Condron Aaf,United States
+1331,WSJ,57.73,-153.32,San Juan,San Juan - Uganik Seaplane Base,United States
+1332,WSN,58.70,-157.00,South Naknek,South Naknek Airport,United States
+1333,WST,41.35,-71.80,Washington County,Westerly State Airport,United States
+1334,WSX,48.62,-122.95,Westsound,Westsound Seaplane Base,United States
+1335,WTK,67.57,-162.98,Noatak,Noatak Airport,United States
+1336,WTL,60.34,-162.67,Tuntutuliak,Tuntutuliak Airport,United States
+1337,WWD,39.01,-74.91,Wildwood,Cape May Co,United States
+1338,WWP,56.12,-133.12,North Whale Pass,North Whale Seaplane Base,United States
+1339,WWT,60.94,-164.64,Newtok,Newtok Airport,United States
+1340,WYS,44.69,-111.12,West Yellowstone,Yellowstone Airport,United States
+1341,X01,25.85,-81.39,Everglades,Everglades Airpark,United States
+1342,X04,28.71,-81.58,Orlando,Apopka,United States
+1343,X07,27.89,-81.62,Lake Wales,Lake Wales Municipal Airport,United States
+1344,X21,28.62,-80.84,Titusville,Arthur Dunn Airpark,United States
+1345,X26,27.81,-80.50,Sebastian,Sebastian Municipal,United States
+1346,X39,28.22,-82.37,Tampa,Tampa North Aero Park,United States
+1347,X49,27.93,-82.04,Lakeland,South Lakeland Airport,United States
+1348,X59,27.96,-80.56,Valkaria,Valkaria Municipal,United States
+1349,XFL,29.28,-81.12,Flagler,Flagler County Airport,United States
+1350,XNA,36.28,-94.31,Bentonville,NW Arkansas Regional,United States
+1351,XZK,42.38,-72.51,Amherst MA,Amherst Amtrak Station AMM,United States
+1352,Y51,43.58,-90.90,Viroqua,Municipal Airport,United States
+1353,Y72,43.98,-90.48,Tomah,Bloyer Field,United States
+1354,YAK,59.30,-139.39,Yakutat,Yakutat,United States
+1355,YIP,42.24,-83.53,Detroit,Willow Run,United States
+1356,YKM,46.57,-120.54,Yakima,Yakima Air Terminal McAllister Field,United States
+1357,YKN,42.87,-97.40,Yankton,Chan Gurney,United States
+1358,YNG,41.26,-80.68,Youngstown,Youngstown Warren Rgnl,United States
+1359,YUM,32.66,-114.61,Yuma,Yuma Mcas Yuma Intl,United States
+1360,Z84,64.30,-149.12,Clear Mews,Clear,United States
+1361,ZBP,39.31,-76.62,Baltimore,Penn Station,United States
+1362,ZFV,39.96,-75.18,Philadelphia,Philadelphia 30th St Station,United States
+1363,ZPH,28.23,-82.16,Zephyrhills,Municipal Airport,United States
+1364,ZRA,39.37,-74.44,Atlantic City NJ,Atlantic City Rail Terminal,United States
+1365,ZRD,37.53,-77.43,Richmond,Train Station,United States
+1366,ZRP,40.73,-74.16,Newark,Newark Penn Station,United States
+1367,ZRT,41.77,-72.68,Hartford,Hartford Union Station,United States
+1368,ZRZ,38.95,-76.87,New Carrollton,New Carrollton Rail Station,United States
+1369,ZSF,42.11,-72.59,Springfield MA,Springfield Amtrak Station,United States
+1370,ZSY,33.62,-111.91,Scottsdale,Scottsdale Airport,United States
+1371,ZTF,41.05,-73.54,Stamford,Stamford Amtrak Station,United States
+1372,ZTY,42.35,-71.08,Boston,Boston Back Bay Station,United States
+1373,ZUN,35.08,-108.79,Zuni Pueblo,Black Rock,United States
+1374,ZVE,41.30,-72.93,New Haven,New Haven Rail Station,United States
+1375,ZWI,39.74,-75.55,Wilmington,Wilmington Amtrak Station,United States
+1376,ZWU,38.90,-77.01,Washington,Washington Union Station,United States
+1377,ZYP,40.75,-73.99,New York,Penn Station,United States
